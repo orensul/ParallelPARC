@@ -1,0 +1,58 @@
+Your task is to concatenate the EVENTS_ORDER according to the temporal order in EVENTS_ORDER which is wrong, to create illogical paragraph.
+Inputs: EVENTS_ORDER
+Outputs: OUTPUT_PARAGRAPH
+
+Inputs:
+EVENTS_ORDER:
+[1]: A cut occurs on your hand.
+[2]: A bandage is applied to cover the injury and protect it from further harm.
+[3]: The wound is cleaned with antiseptic to help prevent infection.
+[4]: The healing process begins and the incision is gradually closed up.
+
+Outputs:
+OUTPUT_PARAGRAPH:
+[1] When you get a cut on your hand, [2] the first step is to apply a bandage to cover the injury and protect it from further harm. [3] After a bandage is applied, the next step is to clean the wound with antiseptic to help prevent infection. [4] As time passes, the healing process begins, in which the incision is gradually closed up.
+
+Inputs:
+EVENTS_ORDER:
+[1]: Inhaling oxygen through the lungs.
+[2]: Capillaries distribute oxygen to the cells.
+[3]: Oxygen binds to hemoglobin in the bloodstream.
+[4]: Cells use oxygen as a source of energy.
+
+Outputs:
+OUTPUT_PARAGRAPH:
+[1] When we inhale, our lungs take in oxygen. [2] Then, the capillaries then distribute the oxygen directly to the cells. [3] Afterward, the oxygen binds to hemoglobin in the bloodstream. [4] Finally, the cells use oxygen as a source of energy to function effectively.
+
+Inputs:
+EVENTS_ORDER:
+[1]: The increased pressure can be too much for the boiler to take and if the pressure exceeds the boiler's capacity, it can cause an explosion.
+[2]: Steam heats the liquid inside the boiler, causing the pressure to build up.
+[3]: As the pressure increases, the steam begins to push against the walls of the boiler.
+
+Outputs:
+OUTPUT_PARAGRAPH:
+[1] An explosion can occur when the pressure inside a boiler exceeds its capacity due to being unable to handle the increased pressure. [2] Following the explosion, the boiler begins to heat the liquid inside, resulting in the buildup of steam. [3] Later, as the steam pressure continues to rise, it pushes against the walls of the boiler, creating an ongoing cycle of pressure buildup.
+
+Inputs:
+EVENTS_ORDER:
+[1]: Allergens can then trigger a flare-up of the autoimmune disease, leading to a heightened response from the body's immune system.
+[2]: An autoimmune disease is caused by an overreaction of the immune system.
+[3]: Antigens build up in the body which leads the immune system to produce antibodies, shifting its normal response.
+
+Outputs:
+OUTPUT_PARAGRAPH:
+[1] Allergens trigger a flare-up of the autoimmune disease, leading to a heightened response from the body's immune system. [2] Following this response, an autoimmune disease is caused by an overreaction of the immune system. [3] Subsequently, antigens build up in the body which leads the immune system to produce antibodies, shifting its normal response.
+
+Inputs:
+EVENTS_ORDER:
+[1]: A heavy snowfall saturates the mountain slope.
+[2]: The instability causes the snow to break loose, creating an avalanche.
+[3]: The snow accumulates on the steep slopes and becomes increasingly unstable.
+
+Outputs:
+OUTPUT_PARAGRAPH:
+[1] A heavy snowfall saturates the mountain slope. [2] Then, it causes the snow to break loose, creating an avalanche. [3] After the avalanche, the snow accumulates on the steep slopes and becomes increasingly unstable.
+
+Inputs:
+EVENTS_ORDER:

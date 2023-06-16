@@ -1,0 +1,24 @@
+Your task is to find an analogy between BASE and TARGET.
+Here are the instructions for the format of relations you should provide in SIMILAR_RELATIONS.
+Every similar relation should be in the following format: (ENTITY1_BASE, VERB_BASE, ENTITY2_BASE)
+like (ENTITY1_TARGET, VERB_TARGET, ENTITY2_TARGET)
+ENTITY1_BASE and ENTITY2_BASE must be noun phrases from BASE.
+ENTITY1_TARGET and ENTITY2_TARGET must be noun phrases from TARGET.
+VERB_BASE and VERB_TARGET must be verbs with the same meanings.
+Inputs: BASE, TARGET_DOMAIN
+Outputs: TARGET, TARGET_FIELD, SIMILAR_RELATIONS
+
+Inputs:
+BASE: How does the electrical circuit works?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+TARGET: How does a mechanical system of water pump works?
+TARGET_FIELD: Mechanical Engineering
+SIMILAR_RELATIONS:
+(battery, generates, electrical voltage) like (pump, generates, pressure)
+(electrons, move through, copper wire) like (water, move through, pipe)
+(resistor, decrease, voltage rate) like (valve, decrease, flow rate)
+
+
+
+

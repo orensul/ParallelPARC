@@ -1,0 +1,26 @@
+Your task is given an INPUT_PARAGRAPH, create a list of events in the paragraph INPUT_PARAGRAPH_ORDER according to their order in time. Then, find two events where the first event must happen before the second event (a prerequisite). Then, replace these events and create NEW_PARAGRAPH_ORDER which are the events in the new order after the replacement, so the NEW_PARAGRAPH_ORDER is illogical. You also need to write an EXPLANATION why NEW_PARAGRAPH_ORDER is illogical.
+Inputs: INPUT_PARAGRAPH
+Outputs: INPUT_PARAGRAPH_ORDER, NEW_PARAGRAPH_ORDER, EXPLANATION
+
+Inputs:
+INPUT_PARAGRAPH:
+When you get a cut on your hand, the first step is to clean the wound with antiseptic. This is to help prevent infection. Then, a bandage is applied to cover the injury and protect it from further harm. As time passes, the healing process begins, in which the incision is gradually closed up.
+
+Outputs:
+INPUT_PARAGRAPH_ORDER:
+[1]: A cut occurs on your hand.
+[2]: The wound is cleaned with antiseptic to help prevent infection.
+[3]: A bandage is applied to cover the injury and protect it from further harm.
+[4]: The healing process begins and the incision is gradually closed up.
+
+NEW_PARAGRAPH_ORDER:
+[1]: A cut occurs on your hand.
+[2]: A bandage is applied to cover the injury and protect it from further harm.
+[3]: The wound is cleaned with antiseptic to help prevent infection.
+[4]: The healing process begins and the incision is gradually closed up.
+
+EXPLANATION:
+By looking at INPUT_PARAGRAPH_ORDER, I found that "[2]: The wound is cleaned with antiseptic to help prevent infection." must happen before "[3]: A bandage is applied to cover the injury and protect it from further harm." because the wound should be cleaned first before a bandage can be applied. After a bandage is applied and cover the wound, the wound cannot be cleaned, since the bandage cover the wound, and we have no access to the wound, so it's illogical.
+
+Inputs:
+INPUT_PARAGRAPH:
