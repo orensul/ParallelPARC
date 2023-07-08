@@ -1,6 +1,5 @@
 Your task is to write a paragraph given SUBJECT and RELATIONS.
 PARAGRAPH has to include RELATIONS in the text.
-
 Inputs: SUBJECT, RELATIONS
 Outputs: PARAGRAPH
 
@@ -16,7 +15,9 @@ The battery generates electrical voltage.
 This voltage creates a potential difference that causes electrons to flow through the circuit.
 The electrical voltage causes electrons to move through the copper wire.
 The electrons pass through the resistor.
-The resistor presents a higher resistance to the flow of electrons, which causes a decrease in the voltage of the circuit.
+The resistor presents a higher resistance to the flow of electrons,
+which causes a decrease in the voltage of the circuit.
+
 
 
 
