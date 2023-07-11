@@ -72,7 +72,7 @@ def write_output_evaluation_data(data_for_evaluation_output_filename):
     analogies = analogies.rename(columns={'target_paragraph': 'analogous_target', 'new_paragraph': 'distractor_target'})
     data_for_evaluation = pd.DataFrame(
         columns=['sample_id', 'source_paragraph', 'random1_target_paragraph', 'random2_target_paragraph', 'distractor_target_paragraph',
-                 'analogous_target_paragraph', 'analogy_type'])
+                 'analogous_target_paragraph', 'shuffled_candidates', 'analogy_type'])
     random.seed(1)
 
     for index, row in analogies.iterrows():
@@ -80,13 +80,19 @@ def write_output_evaluation_data(data_for_evaluation_output_filename):
         random1, random2 = random.sample(range(len(converted_data_excluding_source_subject)), 2)
         random1_paragraph = '\n'.join(converted_data_excluding_source_subject[random1]['texts'])
         random2_paragraph = '\n'.join(converted_data_excluding_source_subject[random2]['texts'])
+
+        items = [random1_paragraph, random2_paragraph, row['distractor_target'], row['analogous_target']]
+        random.shuffle(items)
+
         data_for_evaluation = data_for_evaluation.append({  'sample_id' : row['sample_id'],
                                                             'source_paragraph' : row['source_paragraph'],
                                                             'random1_target_paragraph' : random1_paragraph,
                                                             'random2_target_paragraph' : random2_paragraph,
                                                             'distractor_target_paragraph' : row['distractor_target'],
                                                             'analogous_target_paragraph' : row['analogous_target'],
+                                                            'shuffled_candidates' : json.dumps(items),
                                                             'analogy_type' : row['analogy_type']}, ignore_index=True)
+
     data_for_evaluation.to_csv(data_for_evaluation_output_filename)
 
 
