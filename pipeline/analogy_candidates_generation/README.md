@@ -5,4 +5,4 @@ The csv "GPT3_analogies_propara_topics_relations_mappings.csv" includes all 4680
 The csv "GPT3_analogies_propara_topics_relations_filtered.csv" includes the 4288 candidates 
   (after filtering candidates with less than 3 relations). <br>
 * The folder "prompts" includes the two separate prompts we supplied to GPT-3.5 for the generation. <br>
-* The Python code for the generation (employing these prompts): "generate_analogy_candidates.py"
+* The code for the generation (employing these prompts): "generate_analogy_candidates.py"
