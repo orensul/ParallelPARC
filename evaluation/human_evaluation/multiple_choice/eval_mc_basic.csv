@@ -1,0 +1,657 @@
+,sample_id,source_paragraph,random1_target_paragraph,random2_target_paragraph,random3_target_paragraph,analogous_target_paragraph,candidates_paragraphs,analogy_type,ground_truth,first_paragraph
+69,165How does the digestive system break down food?,The stomach is responsible for digesting food. It contains powerful enzymes that break down proteins into their component parts. The stomach acid also helps to kill any harmful bacteria which may be found in the food. The combination of these processes helps to break down the food into molecules that can be absorbed by the body.,"A butterfly lays an egg.
+A larvae matures inside of the egg.
+The caterpillar hatches from the egg.
+The caterpillar eats and grows.
+The caterpillar spins a coccoon around itself and forms into a pupa.
+The butterfly forms inside of the coccoon.
+The mature butterfly emerges from the coccoon.
+The butterfly mates.
+The female butterfly lays eggs.","Minerals fill spaces between bits of sediment.
+The sediments become glued together.
+The glued together parts become hard like cement.
+The sediment becomes a big rock.
+The rocks erode slowly.
+The rocks come apart.
+The rocks become smaller rocks.
+The rocks continue to erode into smaller rocks.
+The process starts again.","The liver takes in blood from the rest of the body.
+The liver uses enzymes to clean the blood.
+The cleaned blood is expelled.
+The liver creates bile from the items filtered.
+The liver takes energy and stores it as glycogen.
+The bile is sent to the intestines.","The digestive system breaks down food in order to absorb its nutrients. This process is facilitated by enzymes which break down carbohydrates, proteins, and fats. Additionally, gastric acid is released in the stomach which helps to break down food further and also kills any potential pathogens.","[""A butterfly lays an egg.\nA larvae matures inside of the egg.\nThe caterpillar hatches from the egg.\nThe caterpillar eats and grows.\nThe caterpillar spins a coccoon around itself and forms into a pupa.\nThe butterfly forms inside of the coccoon.\nThe mature butterfly emerges from the coccoon.\nThe butterfly mates.\nThe female butterfly lays eggs."", ""The liver takes in blood from the rest of the body.\nThe liver uses enzymes to clean the blood.\nThe cleaned blood is expelled.\nThe liver creates bile from the items filtered.\nThe liver takes energy and stores it as glycogen.\nThe bile is sent to the intestines."", ""The digestive system breaks down food in order to absorb its nutrients. This process is facilitated by enzymes which break down carbohydrates, proteins, and fats. Additionally, gastric acid is released in the stomach which helps to break down food further and also kills any potential pathogens."", ""Minerals fill spaces between bits of sediment.\nThe sediments become glued together.\nThe glued together parts become hard like cement.\nThe sediment becomes a big rock.\nThe rocks erode slowly.\nThe rocks come apart.\nThe rocks become smaller rocks.\nThe rocks continue to erode into smaller rocks.\nThe process starts again.""]",close analogy,C3,"A butterfly lays an egg.
+A larvae matures inside of the egg.
+The caterpillar hatches from the egg.
+The caterpillar eats and grows.
+The caterpillar spins a coccoon around itself and forms into a pupa.
+The butterfly forms inside of the coccoon.
+The mature butterfly emerges from the coccoon.
+The butterfly mates.
+The female butterfly lays eggs."
+17,31How does a tunnel form?,"Caverns form when water erodes the rock, causing pressure to build up, leading to the collapse of the rock. Underground rivers can also carve out a cave by cutting through the rock. In addition, groundwater can dissolve limestone, which contributes to the formation of caverns.","Wind passes the turbines and moves the blades.
+The shaft of the turbine spins.
+Shaft is connected to a generator.
+The generator uses the spins of the shaft to rotate a rotor.
+The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.
+The spinning of the rotor in the core generates electricity.","MRNA is made during the first step of protein synthesis, which is transcription.
+The DNA's genetic information, or secret code, gets written onto a strand of mRNA.
+Transcription takes place in the nucleus.
+The next step in making a protein is called translation.
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.
+The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.
+The ribosome then moves down the strand of mRNA.
+When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete.","Food is put into mouth.
+Food is chewed and mixed with saliva (spit).
+Food travels down the esophagus (throat).
+Food travels into the stomach.
+Acid in the stomach breaks the food down further.
+Food travels into the small intestine.
+Nutrients from food are absorbed into the blood stream.
+Food travels into the large intestine.
+Most of the remaining material is now waste.
+The waste is eventually removed from the body.","A tunnel is formed by a drill that erodes the soil and a machine that carves out the tunnel.
+ The drill removes the soil, and the machine carves out the tunnel.
+ Chemicals may also be used to dissolve the concrete in order to create a smoother wall surface.","[""MRNA is made during the first step of protein synthesis, which is transcription.\nThe DNA's genetic information, or secret code, gets written onto a strand of mRNA.\nTranscription takes place in the nucleus.\nThe next step in making a protein is called translation.\nThe mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.\nThe ribosome figures out where to start on the mRNA by finding a special three letter \""begin\"" sequence called a codon.\nThe ribosome then moves down the strand of mRNA.\nWhen the ribosome sees the \""stop\"" code, it ends the translation and the protein is complete."", ""Food is put into mouth.\nFood is chewed and mixed with saliva (spit).\nFood travels down the esophagus (throat).\nFood travels into the stomach.\nAcid in the stomach breaks the food down further.\nFood travels into the small intestine.\nNutrients from food are absorbed into the blood stream.\nFood travels into the large intestine.\nMost of the remaining material is now waste.\nThe waste is eventually removed from the body."", ""A tunnel is formed by a drill that erodes the soil and a machine that carves out the tunnel.\n The drill removes the soil, and the machine carves out the tunnel.\n Chemicals may also be used to dissolve the concrete in order to create a smoother wall surface."", ""Wind passes the turbines and moves the blades.\nThe shaft of the turbine spins.\nShaft is connected to a generator.\nThe generator uses the spins of the shaft to rotate a rotor.\nThe rotor spins inside the core, which has magnets inside surrounded by wire loops inside.\nThe spinning of the rotor in the core generates electricity.""]",far analogy,C3,"MRNA is made during the first step of protein synthesis, which is transcription.
+The DNA's genetic information, or secret code, gets written onto a strand of mRNA.
+Transcription takes place in the nucleus.
+The next step in making a protein is called translation.
+The mRNA attaches itself to the ribosome.  Read more at: http://www.ducksters.com/science/biology/proteins_and_amino_acids.php This text is Copyright    Ducksters. Do not use without permission.
+The ribosome figures out where to start on the mRNA by finding a special three letter ""begin"" sequence called a codon.
+The ribosome then moves down the strand of mRNA.
+When the ribosome sees the ""stop"" code, it ends the translation and the protein is complete."
+276,852How does oil get from the ground to a refinery?,"Miners extract coal from the ground and transport it to the power station. Trucks are often used to transport the coal to the power station, where it will be used to generate electricity. Coal is an important source of energy for power stations and is used to generate electricity for homes, businesses and industries.","One type of air pollution is the addition of carbon dioxide gas into the air.
+Some scientists believe that releasing too much carbon dioxide into the atmosphere is one of the causes of global warming.
+This upsets the balance of the carbon cycle.
+The ozone layer helps protect us from harmful rays from the sun.
+It is getting damaged from air pollution such as methane gas from livestock and CFCs from spray cans.
+Acid rain is created when gasses such as sulfur dioxide get high into the atmosphere.
+The wind can blow these gasses for miles and then they get washed out of the air when it rains.
+This rain is called acid rain and can damage forests and kill fish.","Animals pull a fruit off a plant or pick a fruit up from the ground.
+Animals eat the fruit.
+Animals drop some seeds onto the ground.
+Animals eat some seeds.
+The seeds are in the animal's waste.
+The waste goes onto the ground.
+There are seeds on the ground in different areas away from the plant.","Bees land on flowers and eat the nectar of the plants.
+While on the flowers pollen gets on the bee's fur.
+The bee flies to another area with other flowers.
+The pollen is deposited in that area.
+A plant is able to reproduce.","Drillers extract the oil from the ground by drilling down and then pumping it up.
+ Once the oil is extracted, it is transported through pipelines to the refinery.
+ Once it arrives at the refinery, the oil is used to create different types of products.","[""Drillers extract the oil from the ground by drilling down and then pumping it up.\n Once the oil is extracted, it is transported through pipelines to the refinery.\n Once it arrives at the refinery, the oil is used to create different types of products."", ""Animals pull a fruit off a plant or pick a fruit up from the ground.\nAnimals eat the fruit.\nAnimals drop some seeds onto the ground.\nAnimals eat some seeds.\nThe seeds are in the animal's waste.\nThe waste goes onto the ground.\nThere are seeds on the ground in different areas away from the plant."", ""Bees land on flowers and eat the nectar of the plants.\nWhile on the flowers pollen gets on the bee's fur.\nThe bee flies to another area with other flowers.\nThe pollen is deposited in that area.\nA plant is able to reproduce."", ""One type of air pollution is the addition of carbon dioxide gas into the air.\nSome scientists believe that releasing too much carbon dioxide into the atmosphere is one of the causes of global warming.\nThis upsets the balance of the carbon cycle.\nThe ozone layer helps protect us from harmful rays from the sun.\nIt is getting damaged from air pollution such as methane gas from livestock and CFCs from spray cans.\nAcid rain is created when gasses such as sulfur dioxide get high into the atmosphere.\nThe wind can blow these gasses for miles and then they get washed out of the air when it rains.\nThis rain is called acid rain and can damage forests and kill fish.""]",close analogy,C1,"Drillers extract the oil from the ground by drilling down and then pumping it up.
+ Once the oil is extracted, it is transported through pipelines to the refinery.
+ Once it arrives at the refinery, the oil is used to create different types of products."
+205,1136How do submarines navigate in the dark?,"Owls have adapted to hunt at night by using their vision. They have excellent vision, allowing them to detect their prey in dim light. They also fly silently, which helps them to sneak up on their prey without being noticed. By using their vision and flying silently, owls are able to locate and capture prey in the dark.","To bake a cake you first need to gather your ingredients.
+Preheat the oven to desired baking temperature.
+Grease your preferred cake pan with crisco or butter or other non-stick spray.
+Add eggs and vegetable oil to the dry ingredients.
+Stir or whisk until all the dry flour has been absorbed.
+Pour the batter into the greased cake pan.
+Place cake pan into the oven for the required time.
+When a toothpick inserted into the cake comes out clean, the cake is done baking.","A machine called a pulverizer grinds the coal into a fine powder.
+The coal powder mixes with hot air, which helps the coal burn more efficiently, and the mixture moves to the furnace.
+The burning coal heats water in a boiler, creating steam.
+Steam released from the boiler powers an engine called a turbine, transforming heat energy from burning coal into mechanical energy that spins the turbine engine.
+The spinning turbine is used to power a generator, a machine that turns mechanical energy into electric energy.
+This happens when magnets inside a copper coil in the generator spin.
+A condenser cools the steam moving through the turbine. As the steam is condensed, it turns back into water.
+The water returns to the boiler, and the cycle begins again.","Carbon dioxide enters the leaf through the stomates.
+Water is absorbed by the plant and transported to the leaves.
+Sunlight is captured by the plant.
+Energy in the form of ATP is made from the sun's energy.
+Carbon dioxide, water, and ATP form sugars via the Calvin cycle.
+Oxygen is given off as a byproduct.
+Oxygen leaves the leaf through the stomates.
+Water is reused or it leaves the leaf.
+The sugars can be used by the plant to make cellulose.","Submarines use sonar to detect objects around them in the dark. Sonar works by sending sound waves out into the environment and listening for the echoes that come back. This allows submarines to detect objects in the water, even in darkness. Submarines also use this sonar to move silently, as the sound waves can be used to detect changes in the environment and help the submarine to navigate.","[""To bake a cake you first need to gather your ingredients.\nPreheat the oven to desired baking temperature.\nGrease your preferred cake pan with crisco or butter or other non-stick spray.\nAdd eggs and vegetable oil to the dry ingredients.\nStir or whisk until all the dry flour has been absorbed.\nPour the batter into the greased cake pan.\nPlace cake pan into the oven for the required time.\nWhen a toothpick inserted into the cake comes out clean, the cake is done baking."", ""Submarines use sonar to detect objects around them in the dark. Sonar works by sending sound waves out into the environment and listening for the echoes that come back. This allows submarines to detect objects in the water, even in darkness. Submarines also use this sonar to move silently, as the sound waves can be used to detect changes in the environment and help the submarine to navigate."", ""Carbon dioxide enters the leaf through the stomates.\nWater is absorbed by the plant and transported to the leaves.\nSunlight is captured by the plant.\nEnergy in the form of ATP is made from the sun's energy.\nCarbon dioxide, water, and ATP form sugars via the Calvin cycle.\nOxygen is given off as a byproduct.\nOxygen leaves the leaf through the stomates.\nWater is reused or it leaves the leaf.\nThe sugars can be used by the plant to make cellulose."", ""A machine called a pulverizer grinds the coal into a fine powder.\nThe coal powder mixes with hot air, which helps the coal burn more efficiently, and the mixture moves to the furnace.\nThe burning coal heats water in a boiler, creating steam.\nSteam released from the boiler powers an engine called a turbine, transforming heat energy from burning coal into mechanical energy that spins the turbine engine.\nThe spinning turbine is used to power a generator, a machine that turns mechanical energy into electric energy.\nThis happens when magnets inside a copper coil in the generator spin.\nA condenser cools the steam moving through the turbine. As the steam is condensed, it turns back into water.\nThe water returns to the boiler, and the cycle begins again.""]",far analogy,C2,"To bake a cake you first need to gather your ingredients.
+Preheat the oven to desired baking temperature.
+Grease your preferred cake pan with crisco or butter or other non-stick spray.
+Add eggs and vegetable oil to the dry ingredients.
+Stir or whisk until all the dry flour has been absorbed.
+Pour the batter into the greased cake pan.
+Place cake pan into the oven for the required time.
+When a toothpick inserted into the cake comes out clean, the cake is done baking."
+156,548How does a mechanical system of air compressor works?,"The liver is an important organ in the human body. It is responsible for a number of different functions including filtering the blood, producing bile, and metabolizing proteins, carbohydrates, and fats. The liver works in conjunction with the kidney to ensure blood is properly filtered. The glomerulus of the kidney is responsible for producing urine, which then travels through the ureters and is collected in the bladder.","A seed must find its way to the earth.
+The seed when given nutrients will sprout.
+The sprouting will develop a root system.
+The plant will grow larger until it matures.
+The plant will thrive.
+The plant will die.
+Become nourishment for other plants.","Animals may come across vegetation.
+The animal may consume or get seeds stuck in their fur.
+The animal travels some distance someplace else.
+The seeds are dropped or deposited off.
+The seeds have a new place to proliferate and grow.","People breathe and expel carbon dioxide.
+Engines produce carbon dioxide.
+Living things produce waste.
+Waste decomposes.
+Decomposition produces methane.
+Water evaporates.
+Water vapor joins the atmosphere.
+Carbon dioxide, water vapor and methane are greenhouse gases.","The compressor filters the air and then pumps it through a valve.
+ The valve produces compressed air, which is then pushed through the piping.
+ The pressure from the valve causes the compressed air to travel through the piping, which is then used in various applications.","[""A seed must find its way to the earth.\nThe seed when given nutrients will sprout.\nThe sprouting will develop a root system.\nThe plant will grow larger until it matures.\nThe plant will thrive.\nThe plant will die.\nBecome nourishment for other plants."", ""The compressor filters the air and then pumps it through a valve.\n The valve produces compressed air, which is then pushed through the piping.\n The pressure from the valve causes the compressed air to travel through the piping, which is then used in various applications."", ""People breathe and expel carbon dioxide.\nEngines produce carbon dioxide.\nLiving things produce waste.\nWaste decomposes.\nDecomposition produces methane.\nWater evaporates.\nWater vapor joins the atmosphere.\nCarbon dioxide, water vapor and methane are greenhouse gases."", ""Animals may come across vegetation.\nThe animal may consume or get seeds stuck in their fur.\nThe animal travels some distance someplace else.\nThe seeds are dropped or deposited off.\nThe seeds have a new place to proliferate and grow.""]",far analogy,C2,"A seed must find its way to the earth.
+The seed when given nutrients will sprout.
+The sprouting will develop a root system.
+The plant will grow larger until it matures.
+The plant will thrive.
+The plant will die.
+Become nourishment for other plants."
+94,300How can viruses spread disease?,Bacteria can cause disease when they invade cells in the body. They can produce toxins that damage the cells and cause inflammation in the body. Bacteria also produce enzymes which can break down cell walls and damage tissue. This invasion and damage can lead to a variety of symptoms and illnesses.,"Cells obtain glucose and oxygen.
+The glucose and oxygen create carbon dioxide.
+The cells release energy.
+The cells don't have enough oxygen to repeat this.
+The cells obtain more oxygen from the air.
+The cells repeat this process.","Electromagnet creates magnetic field with electricity.
+Conductive copper wire is wrapped around a piece of metal.
+An electric current gets introduced from power source.
+Flows through the wire.
+Magnetic field gets created in the wire.
+And the metal gets magnetized.
+When turned off it is no longer magnetic.","Networks of trees start forming.
+The trees die off.
+The dead material provides nutrients for more trees.
+The rising trees provide shelter.
+And more organisms begin to thrive.
+The ecosystem known as a forest is made.","Viruses are microscopic agents that can invade cells and reproduce, often leading to the spread of disease. They can produce toxins and cause inflammation in the cells they invade, leading to the development of illnesses. In some cases, the toxins produced by the viruses can travel to other parts of the body, spreading the disease further.","[""Electromagnet creates magnetic field with electricity.\nConductive copper wire is wrapped around a piece of metal.\nAn electric current gets introduced from power source.\nFlows through the wire.\nMagnetic field gets created in the wire.\nAnd the metal gets magnetized.\nWhen turned off it is no longer magnetic."", ""Networks of trees start forming.\nThe trees die off.\nThe dead material provides nutrients for more trees.\nThe rising trees provide shelter.\nAnd more organisms begin to thrive.\nThe ecosystem known as a forest is made."", ""Cells obtain glucose and oxygen.\nThe glucose and oxygen create carbon dioxide.\nThe cells release energy.\nThe cells don't have enough oxygen to repeat this.\nThe cells obtain more oxygen from the air.\nThe cells repeat this process."", ""Viruses are microscopic agents that can invade cells and reproduce, often leading to the spread of disease. They can produce toxins and cause inflammation in the cells they invade, leading to the development of illnesses. In some cases, the toxins produced by the viruses can travel to other parts of the body, spreading the disease further.""]",close analogy,C4,"Electromagnet creates magnetic field with electricity.
+Conductive copper wire is wrapped around a piece of metal.
+An electric current gets introduced from power source.
+Flows through the wire.
+Magnetic field gets created in the wire.
+And the metal gets magnetized.
+When turned off it is no longer magnetic."
+176,652Describe the life cycle of a frog,"A rabbit reproduces by giving birth to its offspring. As the baby rabbits grow, they mature and reach adulthood. At this stage, they are ready to reproduce and the cycle begins again. Rabbits eat vegetation such as grass and clover, as well as other plants and fruits. They also eat insects and worms. The life cycle of a rabbit is completed when it dies of natural causes, or is killed by a predator.","There are places inside Earth where rock will melt.
+Melted rock inside the Earth is also called molten rock, or magma.
+Magma moves up through Earth's crust, but it does not always reach the surface.
+When magma erupts onto Earth's surface, it is known as lava.
+As lava flows from volcanoes it starts to cool.
+Minerals form when magma and lava cool.","A female fish lays eggs.
+Larvae hatch from the eggs.
+The larvae eat and grow.
+The larvae form into juvenile fish.
+The juvenile fish grow into adult fish.
+The adult fish mate.
+The female fish lays eggs.","The frog eggs hatch.
+The tadpole breaks free.
+Slowly, the gills disappear over the next 6 weeks.
+The hind legs begin to form at 8 weeks.
+The front legs form at 12 weeks.
+The tail shrinks.
+The mouth grows larger.
+The tadpole can live on land as a frog.","A frog's life cycle begins when it reproduces and lays eggs that hatch into tadpoles. The tadpoles then grow and develop into adult frogs. During this process, the frog matures and reaches maturity. Once mature, the adult frog eats a variety of insects and other small creatures. At the end of its life cycle, the frog dies and the cycle begins again.","[""There are places inside Earth where rock will melt.\nMelted rock inside the Earth is also called molten rock, or magma.\nMagma moves up through Earth's crust, but it does not always reach the surface.\nWhen magma erupts onto Earth's surface, it is known as lava.\nAs lava flows from volcanoes it starts to cool.\nMinerals form when magma and lava cool."", ""A frog's life cycle begins when it reproduces and lays eggs that hatch into tadpoles. The tadpoles then grow and develop into adult frogs. During this process, the frog matures and reaches maturity. Once mature, the adult frog eats a variety of insects and other small creatures. At the end of its life cycle, the frog dies and the cycle begins again."", ""A female fish lays eggs.\nLarvae hatch from the eggs.\nThe larvae eat and grow.\nThe larvae form into juvenile fish.\nThe juvenile fish grow into adult fish.\nThe adult fish mate.\nThe female fish lays eggs."", ""The frog eggs hatch.\nThe tadpole breaks free.\nSlowly, the gills disappear over the next 6 weeks.\nThe hind legs begin to form at 8 weeks.\nThe front legs form at 12 weeks.\nThe tail shrinks.\nThe mouth grows larger.\nThe tadpole can live on land as a frog.""]",close analogy,C2,"There are places inside Earth where rock will melt.
+Melted rock inside the Earth is also called molten rock, or magma.
+Magma moves up through Earth's crust, but it does not always reach the surface.
+When magma erupts onto Earth's surface, it is known as lava.
+As lava flows from volcanoes it starts to cool.
+Minerals form when magma and lava cool."
+261,775How do cultural norms evolve?,Minerals form when chemical elements combine to create compounds. Minerals can also be formed when heat and pressure transform existing materials. Crystallization is another process that produces minerals when the atoms in a material are arranged in an orderly fashion.,"Seeds are sown into the ground.
+The earth where the seeds are planted is given water and fertilizer.
+The seeds start to grow and become seedlings.
+The plants are given water.
+The seedlings grow into plants.
+Weeds growing near the plants are removed.
+The plants grow to maturity.","Blood sugar levels increase after a meal.
+Cells in the pancreas release insulin.
+Insulin causes the body to absorb glucose from the blood.
+Blood sugar goes back to normal.
+Blood sugar is too low.
+The amount of insulin goes down.
+Cells in the pancreas release glucagon.
+The liver turns stored glycogen into glucose.
+The liver releases the glucose into the blood.
+Blood sugar goes back to normal.","Coal is harvested from a coal mine.
+The coal is transported either by train or truck to power station.
+The coal is burned in a furnace.
+Water is turned into steam in the boiler.
+The steam is cooled in cooling towers.
+The steam turns the turbines.
+The generator makes electricity.
+The electricity is sent through transformers.","Cultural norms are formed through a combination of values.
+ They are further shaped and evolved through social interactions, as people share their experiences, which in turn produces new cultural norms.
+ These changes are then integrated into the culture, resulting in a transformation of the existing cultural norms.","[""Blood sugar levels increase after a meal.\nCells in the pancreas release insulin.\nInsulin causes the body to absorb glucose from the blood.\nBlood sugar goes back to normal.\nBlood sugar is too low.\nThe amount of insulin goes down.\nCells in the pancreas release glucagon.\nThe liver turns stored glycogen into glucose.\nThe liver releases the glucose into the blood.\nBlood sugar goes back to normal."", ""Seeds are sown into the ground.\nThe earth where the seeds are planted is given water and fertilizer.\nThe seeds start to grow and become seedlings.\nThe plants are given water.\nThe seedlings grow into plants.\nWeeds growing near the plants are removed.\nThe plants grow to maturity."", ""Coal is harvested from a coal mine.\nThe coal is transported either by train or truck to power station.\nThe coal is burned in a furnace.\nWater is turned into steam in the boiler.\nThe steam is cooled in cooling towers.\nThe steam turns the turbines.\nThe generator makes electricity.\nThe electricity is sent through transformers."", ""Cultural norms are formed through a combination of values.\n They are further shaped and evolved through social interactions, as people share their experiences, which in turn produces new cultural norms.\n These changes are then integrated into the culture, resulting in a transformation of the existing cultural norms.""]",far analogy,C4,"Blood sugar levels increase after a meal.
+Cells in the pancreas release insulin.
+Insulin causes the body to absorb glucose from the blood.
+Blood sugar goes back to normal.
+Blood sugar is too low.
+The amount of insulin goes down.
+Cells in the pancreas release glucagon.
+The liver turns stored glycogen into glucose.
+The liver releases the glucose into the blood.
+Blood sugar goes back to normal."
+133,468How does a distillation system works?,"Desalination is the process of converting sea water into fresh water. The process involves evaporating the sea water, which causes the salt to separate from the water. The vapor is then condensed, allowing the fresh water to collect in a separate container. The salt is left behind in the boiler, creating a purified water source.","A plant produces a fruit with seeds in it.
+An animal eats the fruit.
+The animal wanders to another area.
+The animal defecates.
+The seeds are included in the waste.
+The seeds produce a new plant.","Bees go out during the day and gather food.
+Then while gathering of their food, they make wax, which is the building block of their bee hive.
+Bees make food called honey.
+They use a sticky, glue-like substance called propolis as a binding to hold their hives together.
+Bees produce all of the building blocks to build their hive in their own body.","Air enters the lungs through bronchial tubes.
+Air enters bronchioles.
+Bronchioles have tiny air sacs called alveoli.
+Alveoli surrounded by small blood vessels.
+Oxygen absorbed by small blood vessels.
+Vessels deliver oxygen to every cell in the body.
+Blood brings carbon dioxide back to lungs.
+Carbon dioxide released when you exhale.","In a distillation system, the solution is heated and the solute evaporates.
+ The vapor is then cooled and condensed, forming a pure liquid that collects in a separate container.
+ The impurities are left behind in the distilling chamber.","[""A plant produces a fruit with seeds in it.\nAn animal eats the fruit.\nThe animal wanders to another area.\nThe animal defecates.\nThe seeds are included in the waste.\nThe seeds produce a new plant."", ""In a distillation system, the solution is heated and the solute evaporates.\n The vapor is then cooled and condensed, forming a pure liquid that collects in a separate container.\n The impurities are left behind in the distilling chamber."", ""Air enters the lungs through bronchial tubes.\nAir enters bronchioles.\nBronchioles have tiny air sacs called alveoli.\nAlveoli surrounded by small blood vessels.\nOxygen absorbed by small blood vessels.\nVessels deliver oxygen to every cell in the body.\nBlood brings carbon dioxide back to lungs.\nCarbon dioxide released when you exhale."", ""Bees go out during the day and gather food.\nThen while gathering of their food, they make wax, which is the building block of their bee hive.\nBees make food called honey.\nThey use a sticky, glue-like substance called propolis as a binding to hold their hives together.\nBees produce all of the building blocks to build their hive in their own body.""]",close analogy,C2,"A plant produces a fruit with seeds in it.
+An animal eats the fruit.
+The animal wanders to another area.
+The animal defecates.
+The seeds are included in the waste.
+The seeds produce a new plant."
+178,652Describe the growth and development of a human being,"A rabbit begins its life cycle by reproducing offspring.
+ As the rabbit matures, it reaches adulthood and becomes capable of reproducing on its own.
+ Once the rabbit reaches reproductive age, it begins the cycle again by reproducing its own offspring.","Pressure pushes up from inside the volcano.
+Lava comes out of the volcano.
+Ash clouds and rocks also come out of some volcanos.
+The things that come out of the volcano cause disturbances in the environment.
+The eruption lasts for a long time for some eruptions.
+The volcano loses the built up pressure.
+The lava and other debris stop coming out of the volcano.
+Mudslides and ash clouds cause problems after some eruptions.","Acid rain flows through soil.
+Chemicals from the acid rain kill plants and trees.
+The acid rainwater flows into rivers and streams.
+The chemicals kill fish.
+The chemicals kill animals that drink the water.
+Nitrogen builds up.
+Nitrogen destroys fish and shellfish populations.","A female fish lays eggs.
+Larvae hatch from the eggs.
+The larvae eat and grow.
+The larvae form into juvenile fish.
+The juvenile fish grow into adult fish.
+The adult fish mate.
+The female fish lays eggs.","A human being reproduces by giving birth to an offspring. From birth, the human will go through a process of growth and development until it matures into adulthood. As the human reaches reproductive age, it is capable of producing its own offspring. This process of growth and development is essential for the survival of the human species.","[""A human being reproduces by giving birth to an offspring. From birth, the human will go through a process of growth and development until it matures into adulthood. As the human reaches reproductive age, it is capable of producing its own offspring. This process of growth and development is essential for the survival of the human species."", ""Pressure pushes up from inside the volcano.\nLava comes out of the volcano.\nAsh clouds and rocks also come out of some volcanos.\nThe things that come out of the volcano cause disturbances in the environment.\nThe eruption lasts for a long time for some eruptions.\nThe volcano loses the built up pressure.\nThe lava and other debris stop coming out of the volcano.\nMudslides and ash clouds cause problems after some eruptions."", ""A female fish lays eggs.\nLarvae hatch from the eggs.\nThe larvae eat and grow.\nThe larvae form into juvenile fish.\nThe juvenile fish grow into adult fish.\nThe adult fish mate.\nThe female fish lays eggs."", ""Acid rain flows through soil.\nChemicals from the acid rain kill plants and trees.\nThe acid rainwater flows into rivers and streams.\nThe chemicals kill fish.\nThe chemicals kill animals that drink the water.\nNitrogen builds up.\nNitrogen destroys fish and shellfish populations.""]",close analogy,C1,"A human being reproduces by giving birth to an offspring. From birth, the human will go through a process of growth and development until it matures into adulthood. As the human reaches reproductive age, it is capable of producing its own offspring. This process of growth and development is essential for the survival of the human species."
+228,1207Describe the steps in how a crack on a bridge is treated and repaired,"When you get a cut on your hand, the first step is to clean the wound with antiseptic. This is to help prevent infection. Then, a bandage is applied to cover the injury and protect it from further harm. As time passes, the healing process begins, in which the incision is gradually closed up.","Water droplets in clouds collide.
+Become bigger drops.
+Ice particles also grow in clouds.
+Drops and ice particles get heavier.
+Drops fall to the ground.
+Ice particles fall from the clouds.
+Ice particles fall through warmer air and melt.
+Ice reaches the ground as rain drops.","A bird picks a spot high spot, often in a tree.
+The bird collects bits of sticks and grass.
+The sticks and grasses are placed between support branches.
+Leaves, mud and spider webs are added to the sticks.
+The mud, leaves and webs glue the sticks together.
+The solid nest supports the eggs.","Choose what you want to write your letter on.
+Think of what you want to say.
+Write some nice things!.
+Place the letter into an envelope.
+Put a stamp on the top right corner of the face of the envelope.
+Write the address of the recipient on the envelope.
+Put the envelope in your mailbox.
+Raise the flag on your mailbox, indicating to the mailman that you have outgoing mail.","The first step to treating and repairing a crack on a bridge is to apply epoxy to the crack. This helps to close the fracture and prevents further damage. A steel plate is then used to cover the fracture. Finally, reinforcement is used to close the fracture, ensuring that the crack is properly sealed and the bridge is structurally sound.","[""Water droplets in clouds collide.\nBecome bigger drops.\nIce particles also grow in clouds.\nDrops and ice particles get heavier.\nDrops fall to the ground.\nIce particles fall from the clouds.\nIce particles fall through warmer air and melt.\nIce reaches the ground as rain drops."", ""A bird picks a spot high spot, often in a tree.\nThe bird collects bits of sticks and grass.\nThe sticks and grasses are placed between support branches.\nLeaves, mud and spider webs are added to the sticks.\nThe mud, leaves and webs glue the sticks together.\nThe solid nest supports the eggs."", ""The first step to treating and repairing a crack on a bridge is to apply epoxy to the crack. This helps to close the fracture and prevents further damage. A steel plate is then used to cover the fracture. Finally, reinforcement is used to close the fracture, ensuring that the crack is properly sealed and the bridge is structurally sound."", ""Choose what you want to write your letter on.\nThink of what you want to say.\nWrite some nice things!.\nPlace the letter into an envelope.\nPut a stamp on the top right corner of the face of the envelope.\nWrite the address of the recipient on the envelope.\nPut the envelope in your mailbox.\nRaise the flag on your mailbox, indicating to the mailman that you have outgoing mail.""]",far analogy,C3,"Water droplets in clouds collide.
+Become bigger drops.
+Ice particles also grow in clouds.
+Drops and ice particles get heavier.
+Drops fall to the ground.
+Ice particles fall from the clouds.
+Ice particles fall through warmer air and melt.
+Ice reaches the ground as rain drops."
+60,139How does an air conditioning system works?,"When we inhale, air enters the lungs. Oxygen molecules are then absorbed by small air sacs called alveoli. The oxygen is then transported to the bloodstream while carbon dioxide is exhaled from the lungs. This exchange of gases is essential for life and is facilitated by the lungs.","Pressure happens underground.
+Tectonic plates underground pull and stretch.
+Small cracks are formed in the earth's crust.
+The tectonic plates push hard against each other.
+Some parts of the earth's crust move up high above the ground.","Carbon dioxide passes through stomata in the leaves.
+Water is absorbed through roots.
+Chloroplast cells in leaves contain chlorophyll.
+Chlorophyll absorbs energy from sunlight.
+Energy splits water molecules into hydrogen and oxygen.
+Oxygen gets released into atmosphere.
+Hydrogen and carbon dioxide used to create glucose.
+Glucose is food for plants.","You gather a writing utensil and a piece of paper.
+You use the writing utensil to compose your letter on the paper.
+You fold the paper.
+Place it into an envelope.
+You write the address of the recipient on the outside of the envelope.
+You seal the envelope with moisture or tape.
+You apply a stamp to the outside of the envelope.
+You put the envelope in a mailbox for a letter carrier to collect.
+The letter carrier takes the envelope to the correct address.","Air enters the air conditioning system where it is cooled by the coolant that is absorbed by the evaporator.
+ The air is then circulated throughout the space, cooling it down.
+ The hot air that has been cooled is then exhaled from the condenser, completing the cycle.","[""Pressure happens underground.\nTectonic plates underground pull and stretch.\nSmall cracks are formed in the earth's crust.\nThe tectonic plates push hard against each other.\nSome parts of the earth's crust move up high above the ground."", ""Carbon dioxide passes through stomata in the leaves.\nWater is absorbed through roots.\nChloroplast cells in leaves contain chlorophyll.\nChlorophyll absorbs energy from sunlight.\nEnergy splits water molecules into hydrogen and oxygen.\nOxygen gets released into atmosphere.\nHydrogen and carbon dioxide used to create glucose.\nGlucose is food for plants."", ""Air enters the air conditioning system where it is cooled by the coolant that is absorbed by the evaporator.\n The air is then circulated throughout the space, cooling it down.\n The hot air that has been cooled is then exhaled from the condenser, completing the cycle."", ""You gather a writing utensil and a piece of paper.\nYou use the writing utensil to compose your letter on the paper.\nYou fold the paper.\nPlace it into an envelope.\nYou write the address of the recipient on the outside of the envelope.\nYou seal the envelope with moisture or tape.\nYou apply a stamp to the outside of the envelope.\nYou put the envelope in a mailbox for a letter carrier to collect.\nThe letter carrier takes the envelope to the correct address.""]",far analogy,C3,"Pressure happens underground.
+Tectonic plates underground pull and stretch.
+Small cracks are formed in the earth's crust.
+The tectonic plates push hard against each other.
+Some parts of the earth's crust move up high above the ground."
+216,1154How is a diamond formed?,"Oil is formed from hydrocarbons that accumulate in sedimentary rock over time.
+ The heat from the Earth's mantle causes the hydrocarbons to become liquid and form oil.
+ The oil is then trapped in source rock, which prevents it from escaping into the environment.","Coal is mined out of the ground.
+Coal is pulverized into fine powder.
+The coal is mixed with hot air.
+The coal and hot air are blown into a boiler.
+The coal and hot air burn over a fire.
+Highly purified water is pumped through pipes in the boiler.
+The water turns into steam.
+The steam presses against turbines.
+The turbines spin.
+Electricity is produced.","Acid rain flows through soil.
+Chemicals from the acid rain kill plants and trees.
+The acid rainwater flows into rivers and streams.
+The chemicals kill fish.
+The chemicals kill animals that drink the water.
+Nitrogen builds up.
+Nitrogen destroys fish and shellfish populations.","Bacteria enter the body.
+Bacteria start to divide and grow.
+The uncontrolled growth takes away resources from other cells.
+Other cells cannot function properly.
+We feel unwell.
+The growth and division of bacteria produce toxins.
+Toxins harm the body.
+The body tries to react to the toxins.
+The body's natural defenses can sometimes cause us to feel unwell.","Diamonds are formed deep within the Earth when carbon accumulates in pockets of magma.
+ The intense pressure from the Earth's mantle causes the carbon to crystallize and the diamond to become solid.
+ The host rock then traps the diamond, keeping it in place until it is mined.","[""Diamonds are formed deep within the Earth when carbon accumulates in pockets of magma.\n The intense pressure from the Earth's mantle causes the carbon to crystallize and the diamond to become solid.\n The host rock then traps the diamond, keeping it in place until it is mined."", ""Acid rain flows through soil.\nChemicals from the acid rain kill plants and trees.\nThe acid rainwater flows into rivers and streams.\nThe chemicals kill fish.\nThe chemicals kill animals that drink the water.\nNitrogen builds up.\nNitrogen destroys fish and shellfish populations."", ""Coal is mined out of the ground.\nCoal is pulverized into fine powder.\nThe coal is mixed with hot air.\nThe coal and hot air are blown into a boiler.\nThe coal and hot air burn over a fire.\nHighly purified water is pumped through pipes in the boiler.\nThe water turns into steam.\nThe steam presses against turbines.\nThe turbines spin.\nElectricity is produced."", ""Bacteria enter the body.\nBacteria start to divide and grow.\nThe uncontrolled growth takes away resources from other cells.\nOther cells cannot function properly.\nWe feel unwell.\nThe growth and division of bacteria produce toxins.\nToxins harm the body.\nThe body tries to react to the toxins.\nThe body's natural defenses can sometimes cause us to feel unwell.""]",close analogy,C1,"Diamonds are formed deep within the Earth when carbon accumulates in pockets of magma.
+ The intense pressure from the Earth's mantle causes the carbon to crystallize and the diamond to become solid.
+ The host rock then traps the diamond, keeping it in place until it is mined."
+30,48What happens during a steam turbine power plant operation?,"During a volcanic eruption, magma releases molten rock from the Earth's interior. This molten rock is called lava and it flows downhill in rivers. As the lava flows, volcanic ash and other materials are released into the air, which rises up high into the sky.","When water freezes it becomes 10% bigger, or takes up 10% more space.
+As water expands it puts great pressure on the walls of anything containing it, including any rocks which happen to be surrounding it.
+The force of the pressure exerted on the rock surrounding it is enough to wedge the walls of the crack farther apart, thus expanding and deepening the crack.
+Clay expends when wet like ice does.
+This causes rock to break apart.
+Some plants like mosses and lichens are capable of growing without soil on bare rock.
+When they do this their roots penetrate pores and crevices and cause rocks to split apart as the roots force their way down through the rocks.","The dna strand of a cell decides to replicate.
+Chemicals in the strand break up the helix.
+The helix is split into two.
+The helix forms as the basis of a new dna strand.
+The cell replicates.","Sugar enters the body.
+Bloodstream.
+The pancreas.
+Insulin lower sugar levels.
+Bloo sugar goes back to normal.","During a steam turbine power plant operation, a boiler releases steam.
+ The steam flows toward the turbine, causing it to rotate as it rises in the air.
+ The rotation of the turbine causes the generator to produce electricity. The electricity is then used to power the facility.","[""When water freezes it becomes 10% bigger, or takes up 10% more space.\nAs water expands it puts great pressure on the walls of anything containing it, including any rocks which happen to be surrounding it.\nThe force of the pressure exerted on the rock surrounding it is enough to wedge the walls of the crack farther apart, thus expanding and deepening the crack.\nClay expends when wet like ice does.\nThis causes rock to break apart.\nSome plants like mosses and lichens are capable of growing without soil on bare rock.\nWhen they do this their roots penetrate pores and crevices and cause rocks to split apart as the roots force their way down through the rocks."", ""The dna strand of a cell decides to replicate.\nChemicals in the strand break up the helix.\nThe helix is split into two.\nThe helix forms as the basis of a new dna strand.\nThe cell replicates."", ""Sugar enters the body.\nBloodstream.\nThe pancreas.\nInsulin lower sugar levels.\nBloo sugar goes back to normal."", ""During a steam turbine power plant operation, a boiler releases steam.\n The steam flows toward the turbine, causing it to rotate as it rises in the air.\n The rotation of the turbine causes the generator to produce electricity. The electricity is then used to power the facility.""]",far analogy,C4,"When water freezes it becomes 10% bigger, or takes up 10% more space.
+As water expands it puts great pressure on the walls of anything containing it, including any rocks which happen to be surrounding it.
+The force of the pressure exerted on the rock surrounding it is enough to wedge the walls of the crack farther apart, thus expanding and deepening the crack.
+Clay expends when wet like ice does.
+This causes rock to break apart.
+Some plants like mosses and lichens are capable of growing without soil on bare rock.
+When they do this their roots penetrate pores and crevices and cause rocks to split apart as the roots force their way down through the rocks."
+1,7What causes an earthquake to occur?,"A volcano erupts when magma builds up pressure beneath the surface.
+ The pressure causes the magma to force its way up through the volcano, releasing heat in the process.
+ The combination of pressure and heat leads to the eruption of the volcano.","Bees first secure the perfect spot, such as hollow areas of trees.
+Bees will begin to chew max until it becomes softened.
+The chewed up wax will be stored inside of a honeycomb.
+Worker bees continue chewing and softening wax from within.
+The chewed up wax is steadily added, making the hive bigger and bigger.
+The bees will house nectar, honey and pollen within the honeycomb's cells.","A radioisotope has unstable nuclei that does not have enough binding energy to hold the nucleus together.
+Radioisotopes would like to be stable isotopes so they are constantly changing to try and stabilize.
+In the process, they will release energy and matter from their nucleus and often transform into a new element.
+This process, called transmutation, is the change of one element into another as a result of changes within the nucleus.
+He radioactive decay and transmutation process will continue until a new element is formed that has a stable nucleus and is not radioactive.","Sediment becomes loose from the rest of the soil.
+The sediment rolls down hill towards a river.
+The heavy items sink to the bottom.
+The lighter items float on the top and in convection cycles.
+As the river flows the sediment is moved.
+The sediment gets dumped through tributaries into lakes and the ocean.
+The sediment keeps moving around the world in convection currents.","An earthquake is caused by the tension that builds up between tectonic plates.
+ When the tension reaches a certain level, the plates are forced past one another, releasing seismic waves and causing an earthquake.
+ The seismic waves travel through the Earth and can be detected by seismographs.","[""A radioisotope has unstable nuclei that does not have enough binding energy to hold the nucleus together.\nRadioisotopes would like to be stable isotopes so they are constantly changing to try and stabilize.\nIn the process, they will release energy and matter from their nucleus and often transform into a new element.\nThis process, called transmutation, is the change of one element into another as a result of changes within the nucleus.\nHe radioactive decay and transmutation process will continue until a new element is formed that has a stable nucleus and is not radioactive."", ""Sediment becomes loose from the rest of the soil.\nThe sediment rolls down hill towards a river.\nThe heavy items sink to the bottom.\nThe lighter items float on the top and in convection cycles.\nAs the river flows the sediment is moved.\nThe sediment gets dumped through tributaries into lakes and the ocean.\nThe sediment keeps moving around the world in convection currents."", ""Bees first secure the perfect spot, such as hollow areas of trees.\nBees will begin to chew max until it becomes softened.\nThe chewed up wax will be stored inside of a honeycomb.\nWorker bees continue chewing and softening wax from within.\nThe chewed up wax is steadily added, making the hive bigger and bigger.\nThe bees will house nectar, honey and pollen within the honeycomb's cells."", ""An earthquake is caused by the tension that builds up between tectonic plates.\n When the tension reaches a certain level, the plates are forced past one another, releasing seismic waves and causing an earthquake.\n The seismic waves travel through the Earth and can be detected by seismographs.""]",close analogy,C4,"A radioisotope has unstable nuclei that does not have enough binding energy to hold the nucleus together.
+Radioisotopes would like to be stable isotopes so they are constantly changing to try and stabilize.
+In the process, they will release energy and matter from their nucleus and often transform into a new element.
+This process, called transmutation, is the change of one element into another as a result of changes within the nucleus.
+He radioactive decay and transmutation process will continue until a new element is formed that has a stable nucleus and is not radioactive."
+291,1049How does a rock form?,"Rust forms when oxygen reacts with iron.
+ The combination of oxygen and iron creates a chemical reaction that produces iron oxide.
+ Hydrogen also combines with iron to form iron hydride.
+ Moisture accelerates the corrosion process and helps to create rust.","Water seeps into rocks.
+The water freezes and thaws.
+Cracks form in the rocks.
+Cracks also form when rocks heat up.
+The rocks slowly break down.","The liver removes toxins from the blood.
+Liver also cleans blood that has just been enriched with vitamins and minerals during digestion.
+Liver processes the good stuff into forms that the rest of the body can use.
+Waste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.
+The liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.
+The liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed.","Human industry produces chemical compounds.
+Chemical compounds rise into the air.
+Chemical compounds mix with elements in clouds.
+The affected rain falls to the earth.
+The affected rain can harm natural and man-made objects because of its acidic content.","A rock forms when water reacts with minerals such as quartz, feldspar, and mica.
+ The water combines with the minerals, and carbon dioxide combines with calcium, to form a sedimentary rock.
+ The addition of heat accelerates the crystallization process, resulting in a solid rock.","[""Human industry produces chemical compounds.\nChemical compounds rise into the air.\nChemical compounds mix with elements in clouds.\nThe affected rain falls to the earth.\nThe affected rain can harm natural and man-made objects because of its acidic content."", ""Water seeps into rocks.\nThe water freezes and thaws.\nCracks form in the rocks.\nCracks also form when rocks heat up.\nThe rocks slowly break down."", ""The liver removes toxins from the blood.\nLiver also cleans blood that has just been enriched with vitamins and minerals during digestion.\nLiver processes the good stuff into forms that the rest of the body can use.\nWaste or stuff your body doesn't need can be carried by bile back into the intestine or into the kidneys.\nThe liver also produces a digestive juice called bile that helps the body absorb fat into the bloodstream.\nThe liver also stores extra carbohydrates as glycogen for the body to use as fuel when needed."", ""A rock forms when water reacts with minerals such as quartz, feldspar, and mica.\n The water combines with the minerals, and carbon dioxide combines with calcium, to form a sedimentary rock.\n The addition of heat accelerates the crystallization process, resulting in a solid rock.""]",far analogy,C4,"Human industry produces chemical compounds.
+Chemical compounds rise into the air.
+Chemical compounds mix with elements in clouds.
+The affected rain falls to the earth.
+The affected rain can harm natural and man-made objects because of its acidic content."
+3,7What causes an autoimmune disease to flare up?,"Volcanic eruptions are caused by the buildup of pressure within the magma chamber.
+ When the tectonic plates shift, it can create pressure within the magma chamber, leading to an eruption.
+ Volcanic gases, such as carbon dioxide and sulfur dioxide, can also trigger an eruption by increasing the pressure within the chamber.","Build a satellite.
+Attach a rocket.
+Add rocket fuel.
+Launch rocket.
+Satellite goes into orbit.","A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.
+Under the right conditions it can develop further and start to spin around a low-pressure center.
+If it develops it's classified as a ""tropical cyclone"" or ""tropical depression"".
+If the system strengthens and wind speeds rise past 39 mph, the system is dubbed a ""tropical storm"".
+If the pressure in the center drops even further and the winds really pick up and forms a clearly defined ""eye"" it's a hurricane.","Plants start off as a seed.
+The seed germinates.
+The plant gets nutrition from the environment.
+The plant grows from the nutrients.
+The plant produces flowers.
+The flowers produce fruit.
+The fruit releases seeds.
+The seeds become new plants.
+The original plant dies at some point.","An autoimmune disease is caused by an overreaction of the immune system. Antigens build up in the body which leads the immune system to produce antibodies, shifting its normal response. Allergens can then trigger a flare-up of the autoimmune disease, leading to a heightened response from the body's immune system.","[""An autoimmune disease is caused by an overreaction of the immune system. Antigens build up in the body which leads the immune system to produce antibodies, shifting its normal response. Allergens can then trigger a flare-up of the autoimmune disease, leading to a heightened response from the body's immune system."", ""Build a satellite.\nAttach a rocket.\nAdd rocket fuel.\nLaunch rocket.\nSatellite goes into orbit."", ""Plants start off as a seed.\nThe seed germinates.\nThe plant gets nutrition from the environment.\nThe plant grows from the nutrients.\nThe plant produces flowers.\nThe flowers produce fruit.\nThe fruit releases seeds.\nThe seeds become new plants.\nThe original plant dies at some point."", ""A hurricane usually starts as an organized thunderstorm activity that stretches at least 100 miles across and maintains its identity for more than 24 hours.\nUnder the right conditions it can develop further and start to spin around a low-pressure center.\nIf it develops it's classified as a \""tropical cyclone\"" or \""tropical depression\"".\nIf the system strengthens and wind speeds rise past 39 mph, the system is dubbed a \""tropical storm\"".\nIf the pressure in the center drops even further and the winds really pick up and forms a clearly defined \""eye\"" it's a hurricane.""]",far analogy,C1,"An autoimmune disease is caused by an overreaction of the immune system. Antigens build up in the body which leads the immune system to produce antibodies, shifting its normal response. Allergens can then trigger a flare-up of the autoimmune disease, leading to a heightened response from the body's immune system."
+275,852How does oil get from the ground to an oil refinery?,"Coal is mined from underground deposits, usually using a technique called surface mining. Once it is extracted, it is transported by rail to the power station. At the power station, the coal is unloaded, weighed, and then delivered to the power station. The coal is then used to generate electricity for the power station.","A female fish lays eggs.
+Larvae hatch from the eggs.
+The larvae eat and grow.
+The larvae form into juvenile fish.
+The juvenile fish grow into adult fish.
+The adult fish mate.
+The female fish lays eggs.","Air is taken through the mouth.
+Enters the lungs.
+The oxygen fills the sacs in your lungs.
+Carbon dioxide is removed from the lungs and exhaled.
+The oxygen is pass throughout your body.","Solar panels actually comprise many, smaller units called photovoltaic cells.
+Photovoltaic simply means they convert sunlight into electricity.).
+Many cells linked together make up a solar panel.
+Each photovoltaic cell is basically a sandwich made up of two slices of semi-conducting material, usually silicon : .
+Manufacturers ""dope"" silicon with other materials, giving each slice of the sandwich a positive or negative electrical charge.
+This adds extra electrons, with a negative charge, to that layer.
+Meanwhile, the bottom layer gets a dose of boron, which results in fewer electrons, or a positive charge.
+This all adds up to an electric field at the junction between the silicon layers.
+When a photon of sunlight knocks an electron free, the electric field will push that electron out of the silicon junction.
+A couple of other components of the cell turn these electrons into usable power.","Oil is extracted from underground reservoirs, typically through drilling.
+ Once the oil is extracted, it is transported by tanker truck to an oil refinery.
+ The tanker truck delivers the oil to the refinery where it can be processed and purified.","[""Air is taken through the mouth.\nEnters the lungs.\nThe oxygen fills the sacs in your lungs.\nCarbon dioxide is removed from the lungs and exhaled.\nThe oxygen is pass throughout your body."", ""Oil is extracted from underground reservoirs, typically through drilling.\n Once the oil is extracted, it is transported by tanker truck to an oil refinery.\n The tanker truck delivers the oil to the refinery where it can be processed and purified."", ""Solar panels actually comprise many, smaller units called photovoltaic cells.\nPhotovoltaic simply means they convert sunlight into electricity.).\nMany cells linked together make up a solar panel.\nEach photovoltaic cell is basically a sandwich made up of two slices of semi-conducting material, usually silicon : .\nManufacturers \""dope\"" silicon with other materials, giving each slice of the sandwich a positive or negative electrical charge.\nThis adds extra electrons, with a negative charge, to that layer.\nMeanwhile, the bottom layer gets a dose of boron, which results in fewer electrons, or a positive charge.\nThis all adds up to an electric field at the junction between the silicon layers.\nWhen a photon of sunlight knocks an electron free, the electric field will push that electron out of the silicon junction.\nA couple of other components of the cell turn these electrons into usable power."", ""A female fish lays eggs.\nLarvae hatch from the eggs.\nThe larvae eat and grow.\nThe larvae form into juvenile fish.\nThe juvenile fish grow into adult fish.\nThe adult fish mate.\nThe female fish lays eggs.""]",close analogy,C2,"Air is taken through the mouth.
+Enters the lungs.
+The oxygen fills the sacs in your lungs.
+Carbon dioxide is removed from the lungs and exhaled.
+The oxygen is pass throughout your body."
+185,683Describe the process of decision-making,"Perspiration is the process of sweating, in which excess body heat is released.
+ The pores in your skin open up, releasing sweat that helps to cool the body.
+ The process of evaporation then occurs, which in turn cools down the skin.","There is a fetus in the womb.
+They are born and are a baby.
+The baby grows into a child.
+Puberty turns the child into an adolescent.
+The adolescent becomes an adult.
+An adult becomes an elderly person.
+The elderly person dies.","Coal is mined out of the ground.
+Coal is pulverized into fine powder.
+The coal is mixed with hot air.
+The coal and hot air are blown into a boiler.
+The coal and hot air burn over a fire.
+Highly purified water is pumped through pipes in the boiler.
+The water turns into steam.
+The steam presses against turbines.
+The turbines spin.
+Electricity is produced.","Human industry produces chemical compounds.
+Chemical compounds rise into the air.
+Chemical compounds mix with elements in clouds.
+The affected rain falls to the earth.
+The affected rain can harm natural and man-made objects because of its acidic content.","Decision-making is a complex process that involves evaluation and contemplation.
+ First, the evaluation releases information that the mind can use to open up possibilities.
+ Then, the contemplation part helps to cool the emotions and allows for more rational thinking and better decision-making.
+ Through this process, the individual can make informed decisions.","[""Decision-making is a complex process that involves evaluation and contemplation.\n First, the evaluation releases information that the mind can use to open up possibilities.\n Then, the contemplation part helps to cool the emotions and allows for more rational thinking and better decision-making.\n Through this process, the individual can make informed decisions."", ""Coal is mined out of the ground.\nCoal is pulverized into fine powder.\nThe coal is mixed with hot air.\nThe coal and hot air are blown into a boiler.\nThe coal and hot air burn over a fire.\nHighly purified water is pumped through pipes in the boiler.\nThe water turns into steam.\nThe steam presses against turbines.\nThe turbines spin.\nElectricity is produced."", ""Human industry produces chemical compounds.\nChemical compounds rise into the air.\nChemical compounds mix with elements in clouds.\nThe affected rain falls to the earth.\nThe affected rain can harm natural and man-made objects because of its acidic content."", ""There is a fetus in the womb.\nThey are born and are a baby.\nThe baby grows into a child.\nPuberty turns the child into an adolescent.\nThe adolescent becomes an adult.\nAn adult becomes an elderly person.\nThe elderly person dies.""]",far analogy,C1,"Decision-making is a complex process that involves evaluation and contemplation.
+ First, the evaluation releases information that the mind can use to open up possibilities.
+ Then, the contemplation part helps to cool the emotions and allows for more rational thinking and better decision-making.
+ Through this process, the individual can make informed decisions."
+62,140How do the kidneys work?,"The lungs absorb oxygen from the air and expel carbon dioxide. This exchange of gases happens in the alveoli, which are tiny air sacs at the end of the bronchial tubes. Oxygen is taken in, and carbon dioxide is released. The alveoli allow oxygen to be circulated throughout the body while carbon dioxide is removed.","There is a lot of rain or a dam breaks.
+Water levels of a river or lake get higher.
+Water builds up on the ground.
+Water covers streets.
+Water gets deep in some places.
+Water goes into houses and other buildings.
+The rain stops or the dam is repaired.
+Water flows into streams.
+The rest of the floodwater evaporates.","Water evaporates from the ground up to the sky.
+Water droplets are in clouds.
+Droplets combine to form bigger drops in the clouds.
+The drops get heavy.
+Gravity makes the drops fall.","Sediment settles in a place due to gravity.
+The sediment breaks down into small particles.
+Wind or water picks up the sediment.
+The sediment travels along the same route as the wind or water.
+The sediment is deposited at new locations by the wind or water.
+The sediment is picked up again by new wind or water.
+The sediment travels further.
+The sediment is deposited again in a new place.","The kidneys are responsible for many important functions in the body.
+ They absorb nutrients and expel waste.
+ The process of absorption and elimination is facilitated by the nephrons, which are small structures that exchange fluids in the kidneys.
+ The nephrons filter the blood and absorb the necessary nutrients, while also expelling the waste and other harmful substances from the body.","[""There is a lot of rain or a dam breaks.\nWater levels of a river or lake get higher.\nWater builds up on the ground.\nWater covers streets.\nWater gets deep in some places.\nWater goes into houses and other buildings.\nThe rain stops or the dam is repaired.\nWater flows into streams.\nThe rest of the floodwater evaporates."", ""Water evaporates from the ground up to the sky.\nWater droplets are in clouds.\nDroplets combine to form bigger drops in the clouds.\nThe drops get heavy.\nGravity makes the drops fall."", ""The kidneys are responsible for many important functions in the body.\n They absorb nutrients and expel waste.\n The process of absorption and elimination is facilitated by the nephrons, which are small structures that exchange fluids in the kidneys.\n The nephrons filter the blood and absorb the necessary nutrients, while also expelling the waste and other harmful substances from the body."", ""Sediment settles in a place due to gravity.\nThe sediment breaks down into small particles.\nWind or water picks up the sediment.\nThe sediment travels along the same route as the wind or water.\nThe sediment is deposited at new locations by the wind or water.\nThe sediment is picked up again by new wind or water.\nThe sediment travels further.\nThe sediment is deposited again in a new place.""]",close analogy,C3,"There is a lot of rain or a dam breaks.
+Water levels of a river or lake get higher.
+Water builds up on the ground.
+Water covers streets.
+Water gets deep in some places.
+Water goes into houses and other buildings.
+The rain stops or the dam is repaired.
+Water flows into streams.
+The rest of the floodwater evaporates."
+283,915How is debris transported across the landscape?,"Sediment can be transported across the Earth in a number of ways.
+ Rivers are one of the most common ways for sediment to be transported, as they carry sediment downstream.
+ Erosion can also move particles of sediment, and ice can transport soil over a large area.","A bird lays an egg.
+The egg hatches into a baby bird.
+Baby bird eats.
+Grows into an adult bird.
+The bird finds a mate.
+The pair build a nest.
+The birds lay eggs.","Sunlight shines on plants.
+Cells with chlorophyll in them capture the light energy.
+Plants absorb carbon dioxide through their stoma.
+Plants absorb water through their roots and other parts of themselves.
+Plants absorb minerals through their roots.
+Plants convert these inputs into sugars.
+Sugars can be used as energy sources.
+Oxygen and water are also produced.
+Excess water and oxygen are released through stoma and other parts of the plant.","A man and woman mate.
+Embryo is C.
+Embryo grows and develops into a fetus inside the woman's womb.
+The fetus is born.
+Begins to grow and develop through infancy and childhood.
+In the teenage years the human experiences puberty.
+Reaches sexual maturity.
+At 18 the human becomes an adult.
+Adult may procreate continuing the cycle.","Debris can be transported across the landscape in a variety of ways. Wind is a major factor and can carry debris over long distances. Gravity also plays a role in moving fragments downhill. Water is another key factor, as it is capable of transporting particles both down and over the surface.","[""A bird lays an egg.\nThe egg hatches into a baby bird.\nBaby bird eats.\nGrows into an adult bird.\nThe bird finds a mate.\nThe pair build a nest.\nThe birds lay eggs."", ""Debris can be transported across the landscape in a variety of ways. Wind is a major factor and can carry debris over long distances. Gravity also plays a role in moving fragments downhill. Water is another key factor, as it is capable of transporting particles both down and over the surface."", ""Sunlight shines on plants.\nCells with chlorophyll in them capture the light energy.\nPlants absorb carbon dioxide through their stoma.\nPlants absorb water through their roots and other parts of themselves.\nPlants absorb minerals through their roots.\nPlants convert these inputs into sugars.\nSugars can be used as energy sources.\nOxygen and water are also produced.\nExcess water and oxygen are released through stoma and other parts of the plant."", ""A man and woman mate.\nEmbryo is C.\nEmbryo grows and develops into a fetus inside the woman's womb.\nThe fetus is born.\nBegins to grow and develop through infancy and childhood.\nIn the teenage years the human experiences puberty.\nReaches sexual maturity.\nAt 18 the human becomes an adult.\nAdult may procreate continuing the cycle.""]",close analogy,C2,"A bird lays an egg.
+The egg hatches into a baby bird.
+Baby bird eats.
+Grows into an adult bird.
+The bird finds a mate.
+The pair build a nest.
+The birds lay eggs."
+102,369How do human beings obtain and use nutrients?,"Plants obtain water from the soil. Their roots absorb the water from the soil and transport it up to the stem. From the stem, the water travels up to the leaves. In the leaves, the water is used in photosynthesis, which is the process by which plants convert light energy into chemical energy. The water is used to create organic molecules such as sugars, which are used as fuel for the plant.","The kidneys receive blood from the renal artery.
+They process it with millions of tiny nephrons.
+Remove all the waste.
+The kidneys return the blood back to the body through the renal artery.
+Send the urine with the waste to the bladder through the ureters.","Two birds meet each other.
+Egg is produced after fertilziation.
+Mother sits on egg until it hatches.
+Bird Hatches.
+Grows up.
+Flee the next.
+Starts family.
+Dies.","The body's temperature increases over 98.6 degrees F.
+The hypothalamus in the brain sends a message to the body.
+Sweat glands in the skin receive the message.
+The sweat glands start combining water and chemicals to make sweat.
+The sweat leaves the skin through pores.","Human beings obtain nutrients from the food that they eat.
+ The intestines absorb the nutrients from the food and transports them to the blood.
+ The blood circulates the nutrients throughout the body and transports them to the cells, where they can be metabolized and used to provide energy.","[""The body's temperature increases over 98.6 degrees F.\nThe hypothalamus in the brain sends a message to the body.\nSweat glands in the skin receive the message.\nThe sweat glands start combining water and chemicals to make sweat.\nThe sweat leaves the skin through pores."", ""Two birds meet each other.\nEgg is produced after fertilziation.\nMother sits on egg until it hatches.\nBird Hatches.\nGrows up.\nFlee the next.\nStarts family.\nDies."", ""Human beings obtain nutrients from the food that they eat.\n The intestines absorb the nutrients from the food and transports them to the blood.\n The blood circulates the nutrients throughout the body and transports them to the cells, where they can be metabolized and used to provide energy."", ""The kidneys receive blood from the renal artery.\nThey process it with millions of tiny nephrons.\nRemove all the waste.\nThe kidneys return the blood back to the body through the renal artery.\nSend the urine with the waste to the bladder through the ureters.""]",far analogy,C3,"The body's temperature increases over 98.6 degrees F.
+The hypothalamus in the brain sends a message to the body.
+Sweat glands in the skin receive the message.
+The sweat glands start combining water and chemicals to make sweat.
+The sweat leaves the skin through pores."
+33,50How do crystals form?,"Minerals form when molten rock cools and solidifies. The molten rock contains various minerals in its liquid state. As the molten rock cools, pressure causes the minerals to form solid crystals. The temperature at which the molten rock cools also affects what type of minerals form.","A star forms.
+The star does not have enough mass to become a neutron star.
+The star goes through a change in its core and bonds helium to carbon and oxygen.
+The star becomes a red giant.
+A mass of carbon and oxygen builds up in the center of the star.
+The star sheds its outside layers and becomes a nebula.
+The star leaves behind the core which becomes a dwarf star.","A person eats food.
+The person's blood sugar level rises.
+The pancreas receives a signal to release insulin.
+Insulin is released into the bloodstream.
+Insulin signals cells to absorb sugar.
+The cells absorb sugar from the bloodstream.
+The cells use the sugar as energy.","Human beings burn fossil fuels (oil, gas, etc.).
+Carbon dioxide from the burning fossil fuels enter the atmosphere.
+The make-up of the atmosphere changes.
+Some energy from the sun cannot escape back through the changed atmosphere.
+The earth begins to heat because of the extra trapped energy.
+Human beings cut down trees.
+Human beings do not re-plant the trees.
+Trees cannot help take the extra carbon dioxide from the atmosphere.
+The extra trapped energy starts to change the earth's short term weather.
+Eventually the long-term climate patterns start to change.","Crystals can form in a liquid when the pressure increases. This pressure causes the liquid to become saturated with crystals, which then bond together to form larger crystals. Temperature also plays an important role in crystal formation, as it affects the rate at which crystals can form and grow.","[""A person eats food.\nThe person's blood sugar level rises.\nThe pancreas receives a signal to release insulin.\nInsulin is released into the bloodstream.\nInsulin signals cells to absorb sugar.\nThe cells absorb sugar from the bloodstream.\nThe cells use the sugar as energy."", ""Human beings burn fossil fuels (oil, gas, etc.).\nCarbon dioxide from the burning fossil fuels enter the atmosphere.\nThe make-up of the atmosphere changes.\nSome energy from the sun cannot escape back through the changed atmosphere.\nThe earth begins to heat because of the extra trapped energy.\nHuman beings cut down trees.\nHuman beings do not re-plant the trees.\nTrees cannot help take the extra carbon dioxide from the atmosphere.\nThe extra trapped energy starts to change the earth's short term weather.\nEventually the long-term climate patterns start to change."", ""A star forms.\nThe star does not have enough mass to become a neutron star.\nThe star goes through a change in its core and bonds helium to carbon and oxygen.\nThe star becomes a red giant.\nA mass of carbon and oxygen builds up in the center of the star.\nThe star sheds its outside layers and becomes a nebula.\nThe star leaves behind the core which becomes a dwarf star."", ""Crystals can form in a liquid when the pressure increases. This pressure causes the liquid to become saturated with crystals, which then bond together to form larger crystals. Temperature also plays an important role in crystal formation, as it affects the rate at which crystals can form and grow.""]",close analogy,C4,"A person eats food.
+The person's blood sugar level rises.
+The pancreas receives a signal to release insulin.
+Insulin is released into the bloodstream.
+Insulin signals cells to absorb sugar.
+The cells absorb sugar from the bloodstream.
+The cells use the sugar as energy."
+49,112How does a solar cell convert light energy into electrical energy?,"During photosynthesis, chlorophyll absorbs sunlight, which is used to break down water and carbon dioxide molecules.
+ The energy from the sunlight is used to react the carbon dioxide with the water and produce glucose.
+ The process also releases oxygen as a byproduct.","You inhale.
+Your diaphragm moves down.
+Your lungs have more room.
+Your lungs fill with air.
+You exhale.
+Your diaphragm moves back up.
+Carbon dioxide is exhaled.
+You start the process over again.","Begin the party.
+Partake in activities.
+Bring out the cake.
+Sing ""Happy Birthday!"".
+Blow out the candles.
+Eat the cake.
+Open the presents.","There is a lot of rain or a dam breaks.
+Water levels of a river or lake get higher.
+Water builds up on the ground.
+Water covers streets.
+Water gets deep in some places.
+Water goes into houses and other buildings.
+The rain stops or the dam is repaired.
+Water flows into streams.
+The rest of the floodwater evaporates.","A solar cell is composed of a semiconductor material that absorbs light energy.
+ When the light energy is absorbed, the electrons of the semiconductor react with the electric field and become energized.
+ The energized electrons then flow through the cell, producing an electric current that can be used to produce energy.","[""Begin the party.\nPartake in activities.\nBring out the cake.\nSing \""Happy Birthday!\"".\nBlow out the candles.\nEat the cake.\nOpen the presents."", ""There is a lot of rain or a dam breaks.\nWater levels of a river or lake get higher.\nWater builds up on the ground.\nWater covers streets.\nWater gets deep in some places.\nWater goes into houses and other buildings.\nThe rain stops or the dam is repaired.\nWater flows into streams.\nThe rest of the floodwater evaporates."", ""A solar cell is composed of a semiconductor material that absorbs light energy.\n When the light energy is absorbed, the electrons of the semiconductor react with the electric field and become energized.\n The energized electrons then flow through the cell, producing an electric current that can be used to produce energy."", ""You inhale.\nYour diaphragm moves down.\nYour lungs have more room.\nYour lungs fill with air.\nYou exhale.\nYour diaphragm moves back up.\nCarbon dioxide is exhaled.\nYou start the process over again.""]",far analogy,C3,"Begin the party.
+Partake in activities.
+Bring out the cake.
+Sing ""Happy Birthday!"".
+Blow out the candles.
+Eat the cake.
+Open the presents."
+59,135How do whales use sonar?,"Bats use echolocation to navigate and locate prey.
+ They emit ultrasound waves which bounce off objects and return back to the bats as echoes.
+ The bats then receive these echoes and interpret the sound waves.
+ They use the echoes to determine the size, shape and distance of their prey and surroundings.","Bees first secure the perfect spot, such as hollow areas of trees.
+Bees will begin to chew max until it becomes softened.
+The chewed up wax will be stored inside of a honeycomb.
+Worker bees continue chewing and softening wax from within.
+The chewed up wax is steadily added, making the hive bigger and bigger.
+The bees will house nectar, honey and pollen within the honeycomb's cells.","The coal is placed in a heater.
+The coal is super heated.
+The heat is connected to a boiler.
+The boiler is full of water.
+The heat turns the water into steam.
+The steam turns a generator.
+The generator produces the electricity.","Dirty dishes are rinsed.
+Placed into the dishwasher.
+A detergent is added to the detergent dispenser.
+The dishwasher is closed.
+The power is turned on.
+In about 1.5-2 hours, the dishes are clean.","Whales use sonar in order to navigate their environment. They emit sound waves which travel through the water and bounce off of objects in the environment. The whales receive echoes from the objects and interpret them to determine the location and composition of the objects. By doing this, whales can map out their surroundings and find food.","[""Whales use sonar in order to navigate their environment. They emit sound waves which travel through the water and bounce off of objects in the environment. The whales receive echoes from the objects and interpret them to determine the location and composition of the objects. By doing this, whales can map out their surroundings and find food."", ""Dirty dishes are rinsed.\nPlaced into the dishwasher.\nA detergent is added to the detergent dispenser.\nThe dishwasher is closed.\nThe power is turned on.\nIn about 1.5-2 hours, the dishes are clean."", ""Bees first secure the perfect spot, such as hollow areas of trees.\nBees will begin to chew max until it becomes softened.\nThe chewed up wax will be stored inside of a honeycomb.\nWorker bees continue chewing and softening wax from within.\nThe chewed up wax is steadily added, making the hive bigger and bigger.\nThe bees will house nectar, honey and pollen within the honeycomb's cells."", ""The coal is placed in a heater.\nThe coal is super heated.\nThe heat is connected to a boiler.\nThe boiler is full of water.\nThe heat turns the water into steam.\nThe steam turns a generator.\nThe generator produces the electricity.""]",close analogy,C1,"Whales use sonar in order to navigate their environment. They emit sound waves which travel through the water and bounce off of objects in the environment. The whales receive echoes from the objects and interpret them to determine the location and composition of the objects. By doing this, whales can map out their surroundings and find food."

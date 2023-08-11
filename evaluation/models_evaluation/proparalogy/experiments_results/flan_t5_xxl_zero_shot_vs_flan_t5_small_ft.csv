@@ -1,0 +1,621 @@
+sample_id,type,flan_t5_xxl_zero_shot_prediction,flan_t5_small_ft_prediction,ground_truth
+1143Describe how climate change can negatively affect animals,analogy,0,1,1
+681Describe the process of dormancy,distractor,1,1,0
+212How does the formation of clouds occur?,analogy,0,1,1
+229How does a levee prevent rising water levels?,analogy,1,1,1
+1059How does a water purification system work?,analogy,0,1,1
+41What causes a bridge to collapse?,distractor,0,0,0
+52How does a structure respond to an earthquake?,analogy,0,1,1
+925How does a water filtration system work?,random,0,0,0
+1203How do hormones regulate physiological processes?,random,0,0,0
+397How does a solar-powered generator create energy?,distractor,0,1,0
+425How does water get from the ground to a household?,analogy,0,1,1
+873How does water get from the aquifer to a home?,distractor,0,1,0
+652Describe the life cycle of a frog,analogy,0,1,1
+20How is air pollution spread across the atmosphere?,analogy,0,1,1
+1055How does a tree get water from the ground?,analogy,0,1,1
+186How does bacteria grow on metal surfaces?,analogy,0,1,1
+58How does an avalanche occur?,distractor,0,0,0
+830How do bacteria cause infection?,random,0,0,0
+1295How does a dialysis machine remove waste from the blood?,analogy,0,1,1
+1333How does solar radiation heat a surface?,random,0,0,0
+742How do sonar devices detect objects?,random,0,0,0
+298Describe how viruses can cause infection.,analogy,0,1,1
+1310Describe how bears prepare for winter.,analogy,1,1,1
+41How does a social movement become successful?,analogy,0,0,1
+652Describe the life cycle of a human,analogy,0,1,1
+618How does a ventilation system of a hospital work?,distractor,0,1,0
+640Describe the life cycle of a human being,analogy,0,1,1
+424How does information flow through a network of computers?,random,0,0,0
+771How does the cardiovascular system function?,distractor,0,1,0
+157Describe the process of recycling a plastic bottle,distractor,1,1,0
+280How does a solar cell produce energy?,analogy,0,1,1
+701Describe the process of global warming,analogy,1,1,1
+1217How do coral reefs form?,random,0,0,0
+686Describe the process of wastewater treatment,analogy,0,0,1
+939How does a solar panel work?,analogy,0,1,1
+31How does the formation of an underground cave occur?,random,0,0,0
+846How does the education system remove ignorance from society?,analogy,0,0,1
+186How does bacteria grow on metal surfaces?,random,0,0,0
+683Describe the process of decision-making,analogy,0,0,1
+1183How does a filter remove contaminants from water?,analogy,1,1,1
+298How do viruses replicate and spread?,distractor,0,1,0
+702Describe the process of climate change,random,0,0,0
+1055How does a machine filter water?,analogy,0,1,1
+536How does a sewage system remove waste from a city?,random,0,0,0
+1053How does a building maintain a comfortable temperature?,random,0,0,0
+159Describe the process of composting food waste,analogy,0,1,1
+15How does the nitrogen cycle work?,analogy,0,1,1
+425How does natural gas get from the reservoir to an electricity plant?,distractor,0,1,0
+702Describe the process of climate change,analogy,1,1,1
+1219How does the soil and climate foster plant growth?,analogy,1,1,1
+1053How does a building maintain a comfortable temperature?,analogy,0,1,1
+923How does a mechanical system of air filter works?,distractor,0,0,0
+701Describe the process of global warming,random,0,0,0
+31How do underground aquifers form?,random,0,0,0
+252How do the layers of sedimentary rocks form?,distractor,0,1,0
+64How are valleys formed?,analogy,1,1,1
+58How does a bridge withstand the wind?,distractor,0,0,0
+35How does a steel structure form?,analogy,1,1,1
+1055How does a machine filter water?,random,0,0,0
+1143Describe how climate change can negatively affect animals,distractor,0,0,0
+112How does the human digestive system work?,analogy,0,0,1
+20How is air pollution spread across the atmosphere?,distractor,0,1,0
+1184How does a generator produce electricity?,distractor,0,1,0
+1298How does a dialysis machine clean a patient's blood?,analogy,0,1,1
+301How do you ride a bicycle?,distractor,0,1,0
+468How does a distillation system works?,distractor,0,1,0
+744How do wind currents spread pollen?,analogy,0,1,1
+521Describe the lifecycle of a human,analogy,0,1,1
+494Describe the process of cooling a computer system,analogy,0,1,1
+737How do people help spread cultural practices?,distractor,0,0,0
+1055How does a bacteria get nutrients from a petri dish?,random,0,0,0
+1051How does corrosion occur in metal parts?,random,0,0,0
+923How does a ventilation system work?,random,0,0,0
+1266How do ants build a nest?,distractor,0,1,0
+1167How is language created?,analogy,0,0,1
+1184How does a generator produce electricity?,random,0,0,0
+771How does a gas exchange system function?,analogy,1,1,1
+773How do metals alloy together?,distractor,0,1,0
+441How does a refrigerator cool down the air?,analogy,0,1,1
+1073How does the human heartbeat occur?,distractor,0,1,0
+468Describe the process of filtration,analogy,0,1,1
+313How does corrosion cause metal to become weak?,analogy,0,1,1
+1061Describe the steps in conducting a survey research.,distractor,0,0,0
+852How does oil get from an oil well to a refinery?,analogy,0,1,1
+1204How are antibodies produced in the body?,distractor,0,0,0
+1299How do the lungs extract oxygen from the air?,distractor,0,0,0
+298Describe how viruses can cause malfunction in a computer system.,distractor,0,0,0
+298Describe how viruses can cause malfunction in a computer system.,analogy,0,1,1
+1207Describe the steps in how a crack on a bridge is treated and repaired,analogy,0,1,1
+436How do people make decisions?,distractor,0,1,0
+1154How is a diamond formed?,analogy,0,1,1
+830How do bacteria cause infection?,distractor,0,1,0
+1143Describe how air pollution can negatively affect animals,random,0,0,0
+618How does oxygen circulate in the bloodstream?,analogy,1,1,1
+52How does a structure respond to an earthquake?,distractor,0,1,0
+436How do you get steam to condense?,random,0,0,0
+381How does a bacteria invade an organism?,random,0,0,0
+253How do bacteria utilize viruses to help spread their genetic material?,analogy,0,1,1
+22How does the formation of a river basin occur?,analogy,1,1,1
+1055How does an organism obtain nutrients from its environment?,analogy,0,1,1
+876How does snow form?,distractor,0,1,0
+1333How does solar radiation heat a surface?,analogy,0,1,1
+796How does the human respiratory system work?,random,0,0,0
+588How does a mechanical system of water pump works?,analogy,0,0,1
+61How does a building material turn into concrete?,analogy,0,1,1
+611Describe how viruses can cause illness.,analogy,1,1,1
+435How do you grow cells in a petri dish?,analogy,0,1,1
+52How does a volcanic eruption happen?,distractor,0,1,0
+1204How is insulin produced in the pancreas?,random,0,0,0
+112How does the human body metabolize food?,distractor,0,1,0
+617Describe how air reaches the turbine of a jet engine,random,0,0,0
+737How do people help spread cultural practices?,analogy,0,1,1
+165How does the digestive system work?,analogy,1,1,1
+743How do robots pollinate crops?,random,0,0,0
+80How do glaciers shape the landscape?,distractor,0,1,0
+52How does a volcanic eruption happen?,analogy,0,1,1
+519Describe the life cycle of a human,distractor,0,1,0
+1055How does a human body absorb nutrients from food?,analogy,0,0,1
+31How do karst features form?,distractor,1,1,0
+484Describe the process of developing and deploying a software,analogy,0,1,1
+524Describe the life cycle of a plant,analogy,1,1,1
+1143Describe how air pollution can negatively affect animals,analogy,0,1,1
+1053How does a heated building stay warm?,analogy,0,1,1
+113What occurs during cellular respiration?,analogy,0,1,1
+135How do whales use sonar?,distractor,1,1,0
+516Describe the life cycle of a human,random,0,0,0
+112How does a solar cell convert light energy into electrical energy?,analogy,0,1,1
+1298How does a fish osmoregulate?,distractor,0,0,0
+468How does a distillation system works?,analogy,1,1,1
+1154How is a diamond formed?,random,0,0,0
+783How do animals aid in the pollination of plants?,analogy,0,1,1
+1063Describe the steps in launching a rocket into orbit.,random,0,0,0
+880How does the water cycle work?,random,0,1,0
+61How does a glacier form an iceberg?,analogy,0,1,1
+435How do you cultivate crops?,analogy,1,1,1
+1167How is the light of a star created?,analogy,1,1,1
+1055How does a bacteria get nutrients from a petri dish?,distractor,0,1,0
+424How does information flow through a network of computers?,analogy,0,1,1
+743How do wind currents disperse spores?,analogy,0,1,1
+917What causes an avalanche to occur?,distractor,0,0,0
+1203How do hormones regulate physiological processes?,analogy,0,0,1
+466Describe the process of sewage treatment,analogy,0,1,1
+611Describe how viruses can cause infections.,analogy,1,1,1
+834How does a bacteria infect a plant?,random,0,0,0
+318What happens during the aging process?,analogy,0,1,1
+475How does the effect of human activities on climate change work?,random,0,0,0
+915How is debris transported across the landscape?,analogy,1,1,1
+232How does sonography work?,analogy,1,1,1
+731How does a riverbed erode?,random,0,0,0
+369How do human beings obtain and use nutrients?,analogy,0,0,1
+1150How does photosynthesis occur?,analogy,0,1,1
+665Describe the process of distillation,analogy,1,1,1
+1137How do bats hunt at night?,analogy,0,1,1
+703Describe the process of global warming,analogy,1,1,1
+264How does composting work?,analogy,0,1,1
+186How does a fungus reproduce?,analogy,1,1,1
+720How does the condensation of water vapor form clouds?,random,0,0,0
+441Describe how transpiration helps to keep a plant cool.,analogy,1,1,1
+468How does a mechanical system of water purification works?,analogy,0,1,1
+516Describe the life cycle of a human being,analogy,0,1,1
+539How does the alveolar membrane work?,analogy,1,1,1
+11How does a river erode its banks?,analogy,0,0,1
+873How does water get from the aquifer to a home?,analogy,0,1,1
+923How does a mechanical system of air filter works?,analogy,0,1,1
+681Describe the process of dormancy,random,0,0,0
+526Describe the life cycle of a butterfly,distractor,0,1,0
+834How does a bacteria infect a human?,analogy,0,1,1
+529Describe the life cycle of a human,analogy,1,1,1
+643Describe the life cycle of a human being,analogy,0,1,1
+1063Describe the steps in launching a rocket into orbit.,distractor,0,1,0
+1295How does a filtration system remove pollutants from air?,analogy,0,1,1
+1143Describe how climate change can negatively affect animals,random,0,0,0
+1053How does a heated building stay warm?,distractor,0,1,0
+1154How is coal formed?,random,0,0,0
+775How do cultural norms evolve?,analogy,0,1,1
+58How does an avalanche occur?,analogy,0,1,1
+1223How does a geothermal power plant work?,analogy,0,1,1
+643Describe the development of a human embryo,analogy,0,1,1
+656Describe the lifecycle of a human,random,0,0,0
+1143Describe how human activities can negatively affect wildlife,analogy,0,1,1
+880How does snow form?,analogy,0,1,1
+300Describe how viruses can cause illness.,analogy,1,1,1
+20How is information transmitted across different cultures?,random,0,0,0
+536How does a filtration system remove pollutants from water?,analogy,0,1,1
+135How do submarines use sonar?,distractor,0,1,0
+499Describe how a motor works,analogy,0,1,1
+1049How does a rock form?,random,0,0,0
+852How does oil get from the ground to an oil refinery?,random,0,0,0
+936How does sedimentation affect a river's ecosystem?,analogy,0,1,1
+425How does natural gas get from the reservoir to an electricity plant?,analogy,0,1,1
+499Describe how a motor works,distractor,0,1,0
+796How does the human respiratory system work?,distractor,1,1,0
+1266How do ants build a nest?,random,0,0,0
+873How does a medicine get from the laboratory to a hospital?,random,0,0,0
+1219How does the soil and climate foster plant growth?,random,0,0,0
+57How do clouds form?,distractor,0,0,0
+516Describe the life cycle of a human,analogy,0,1,1
+369How do the human body obtain and use water?,distractor,0,1,0
+1217How do coral reefs build up?,analogy,0,1,1
+135How do dolphins use sonar?,analogy,1,1,1
+316What happens during the erosion of soil?,analogy,0,1,1
+41What causes a tsunami to occur?,distractor,0,1,0
+529Describe the life cycle of a human,random,0,0,0
+1051How does corrosion occur in metal parts?,analogy,0,1,1
+520Describe the life cycle of a butterfly,random,0,0,0
+51How does the human immune system work?,distractor,0,0,0
+263How does a mechanical system of waste management work?,analogy,1,1,1
+422How does oil get from a well to a refinery?,analogy,0,1,1
+444How does an automated drone system pollinate crops?,distractor,0,1,0
+643Describe the development of a human embryo,distractor,0,1,0
+652Describe the life cycle of a frog,random,0,1,0
+1144Describe how deforestation can negatively affect animals,analogy,0,1,1
+112What happens during respiration?,analogy,0,1,1
+212How does the formation of clouds occur?,random,0,0,0
+737How do people help companies promote their products?,random,0,0,0
+520Describe the life cycle of a butterfly,analogy,0,1,1
+141How do plants photosynthesize?,analogy,0,0,1
+466Describe the process of hemodialysis,random,0,1,0
+301How do you use a wheelchair?,analogy,1,1,1
+50How do crystals form?,analogy,0,1,1
+1218How does a community of people form?,analogy,0,0,1
+1195How does a lion get food?,analogy,1,1,1
+1136How do submarines navigate in the dark?,analogy,0,1,1
+384How does a bacterial infection cause disease?,analogy,0,1,1
+1049How does a rock form?,distractor,0,1,0
+43How does a smokestack form?,distractor,0,1,0
+521Describe the lifecycle of a human,distractor,0,1,0
+742How do dolphins use echolocation?,random,0,0,0
+135How do submarines use sonar?,random,0,0,0
+925How does an artificial lung work?,analogy,1,1,1
+565How does photosynthesis work?,random,0,0,0
+834How does a bacteria cause a disease in humans?,random,0,0,0
+743How do robots pollinate crops?,analogy,1,1,1
+1062Describe the steps in launching a weather balloon into the atmosphere.,analogy,1,1,1
+644Describe the life cycle of a machine,distractor,0,1,0
+397How does a solar-powered generator create energy?,analogy,1,1,1
+627Describe how a steam turbine works,analogy,0,0,1
+468How does a distillation system works?,random,0,0,0
+377Describe how air moves through a ventilation system,analogy,0,1,1
+1131How do cells build tissue?,analogy,0,0,1
+31How does a tunnel form?,distractor,0,0,0
+1143Describe how air pollution can negatively affect human health,analogy,0,1,1
+11How does water cause landslides?,analogy,0,1,1
+643Describe the life cycle of a butterfly,analogy,0,1,1
+112What happens during respiration?,distractor,0,0,0
+637Describe the life cycle of a human,distractor,0,0,0
+1128Describe the process by which a tornado forms.,analogy,1,1,1
+165How does the digestive system work?,random,0,0,0
+56How does rain form?,random,0,0,0
+50How do crystals form?,distractor,0,1,0
+1167How is language created?,random,0,0,0
+536How does the lymphatic system remove toxins from the body?,distractor,0,1,0
+842How does a hydraulic system of crane works?,analogy,0,0,1
+1143Describe how human activities can negatively affect wildlife,distractor,0,1,0
+1055How does a tree get water from the ground?,distractor,0,1,0
+13What happens during the carbon cycle?,distractor,0,1,0
+50How do social groups form?,distractor,0,1,0
+1217How do coral reefs form?,analogy,0,1,1
+135How do whales use sonar?,analogy,1,1,1
+13What happens during the carbon cycle?,analogy,0,1,1
+300How can viruses spread disease?,distractor,0,1,0
+665Describe the process of distillation,distractor,1,1,0
+1266How does a beaver build a dam?,analogy,1,1,1
+232How does sonography work?,random,0,0,0
+852How does oil get from the ground to an oil refinery?,distractor,0,1,0
+424How does water get from the ground to a reservoir?,distractor,0,1,0
+617Describe how nutrients travel through the vascular system,random,0,0,0
+747How do tunnels form?,analogy,0,1,1
+1059How does a water purification system work?,random,0,0,0
+384How do bacteria cause disease?,analogy,1,1,1
+41What causes a bridge to collapse?,analogy,0,1,1
+22How does the formation of a river basin occur?,random,0,0,0
+1184How does a generator produce electricity?,analogy,0,1,1
+444How does an automated drone system pollinate crops?,analogy,0,1,1
+1073How does the human heartbeat occur?,analogy,0,1,1
+425How does natural gas get from the reservoir to an electricity plant?,random,0,0,0
+31How are sinkholes formed?,analogy,0,1,1
+518Describe the life cycle of a butterfly,analogy,0,1,1
+493Describe the process of metamorphosis,random,0,0,0
+747How does a volcano form?,analogy,0,1,1
+873How does water get from the aquifer to a home?,random,0,0,0
+925How does an artificial lung work?,distractor,1,1,0
+731How does a system of erosion work?,analogy,1,1,1
+263How does a mechanical system of waste management work?,random,0,0,0
+298How can viruses spread in a population?,distractor,0,1,0
+412How does the human visual system work?,analogy,0,1,1
+7What causes an earthquake to occur?,analogy,0,1,1
+22How do glaciers shape the landscape?,analogy,0,1,1
+852How does natural gas get from the ground to a power station?,random,0,0,0
+588Describe the stages of a plant's growth,random,0,0,0
+280How does a solar cell produce energy?,distractor,0,1,0
+941How do people interact in a certain society?,random,0,0,0
+796How does the photosynthesis process work?,analogy,0,0,1
+536How does the lymphatic system remove toxins from the body?,analogy,0,1,1
+745How do humans interact with one another?,distractor,0,1,0
+494How does a plant respond to seasonal changes?,random,0,0,0
+526Describe the life cycle of a tree,distractor,0,1,0
+301How do you use a Segway?,analogy,0,1,1
+796How does the human respiratory system work?,analogy,1,1,1
+699Describe the process of photosynthesis in plants,distractor,0,0,0
+140How do the kidneys work?,distractor,0,0,0
+925How does a water filtration system work?,analogy,0,1,1
+41How does a social movement become successful?,random,0,0,0
+369How do human beings obtain and use nutrients?,distractor,0,0,0
+11How does water cause landslides?,distractor,0,1,0
+1265How does an ant build an anthill?,random,0,0,0
+382How does bacteria cause disease?,random,0,0,0
+1217How do coral reefs build up?,random,0,0,0
+436How do people make decisions?,analogy,0,1,1
+588Describe the stages of a plant's growth,analogy,0,0,1
+1217How do coral reefs build up?,distractor,0,1,0
+50How do social groups form?,analogy,0,1,1
+565How does photosynthesis work?,analogy,0,0,1
+494How does a plant respond to seasonal changes?,analogy,0,1,1
+1204How are antibodies produced in the body?,analogy,0,0,1
+36How does a social movement develop?,analogy,0,0,1
+382How does bacteria cause disease?,analogy,1,1,1
+7What causes an autoimmune disease to flare up?,distractor,0,0,0
+557How do you make beer?,analogy,1,1,1
+254How do animals use wind to help spread pollen?,distractor,0,1,0
+316What happens during erosion?,random,0,0,0
+316What happens during erosion?,analogy,1,1,1
+1295How does a dialysis machine remove waste from the blood?,distractor,0,1,0
+252How do the layers of sedimentary rocks form?,random,0,0,0
+1219How does the soil and climate foster plant growth?,distractor,0,1,0
+617Describe how nutrients are absorbed by cells in the body,distractor,0,1,0
+135How does a radar system work?,analogy,1,1,1
+43How does a smokestack form?,random,0,0,0
+641Describe the life cycle of a robot,analogy,0,1,1
+686Describe the process of wastewater treatment,distractor,0,0,0
+1266How does a spider weave a web?,analogy,1,1,1
+50How do proteins form?,analogy,0,1,1
+50How does a metal alloy form?,analogy,0,1,1
+519Describe the life cycle of a human,analogy,0,1,1
+731How does the erosion of soil affect the formation of ravines?,random,0,0,0
+165How does the process of digestion work?,random,0,0,0
+43How does a smokestack form?,analogy,0,1,1
+842How does a hydraulic system of crane works?,random,0,0,0
+880How does the water cycle work?,analogy,1,1,1
+7What causes an autoimmune disease to flare up?,random,0,0,0
+48What happens during a steam turbine power plant operation?,analogy,0,0,1
+384How do bacteria cause disease?,random,0,0,0
+36How does a social movement develop?,distractor,0,0,0
+721How does evaporation create condensation in the atmosphere?,analogy,1,1,1
+1106Describe the life cycle of a bacterium.,random,0,0,0
+301How do you use a Segway?,random,0,0,0
+731How does a system of erosion work?,distractor,0,1,0
+7What causes a boiler to explode?,analogy,0,1,1
+11What happens during deforestation of a rainforest?,random,0,0,0
+45How do clouds form?,distractor,0,0,0
+31How do karst features form?,random,0,0,0
+369How do the human body obtain and use water?,random,0,0,0
+745How do humans interact with one another?,analogy,0,1,1
+731How does a system of erosion work?,random,0,0,0
+424How does water get from the underground aquifer to a reservoir?,analogy,0,1,1
+22How is an ocean trench formed?,analogy,0,1,1
+852How does natural gas get from the ground to a power station?,analogy,1,1,1
+139How does an air conditioning system works?,analogy,0,1,1
+731How are canyons formed?,distractor,0,1,0
+526Describe the life cycle of a butterfly,analogy,0,1,1
+31How do underground aquifers form?,analogy,0,1,1
+744How do wind currents spread pollen?,distractor,0,1,0
+318What happens during the aging process?,distractor,0,1,0
+416How does a damaged tissue regenerate?,random,0,1,0
+617Describe how air reaches the turbine of a jet engine,analogy,0,0,1
+135How do dolphins use sonar?,distractor,1,1,0
+252How do the layers of sedimentary rocks form?,analogy,0,1,1
+499Describe how a solar cell works,analogy,0,1,1
+834How does a bacteria infect a plant?,analogy,0,1,1
+1223How does a geothermal power plant work?,distractor,0,1,0
+784How do viruses use cells to help spread their genetic information?,random,0,0,0
+627Describe how a steam turbine works,distractor,0,0,0
+618How does a ventilation system of a hospital work?,analogy,0,1,1
+499Describe how a solar cell works,distractor,0,1,0
+377Describe how oxygen molecules are transported in the blood,analogy,1,1,1
+830How do bacteria cause infection?,analogy,0,1,1
+834How does a bacteria infect a plant?,distractor,0,1,0
+611Describe how viruses can cause infections.,random,0,0,0
+254How do bacteria use other organisms to help spread their genetic material?,analogy,0,1,1
+737How do people help companies promote their products?,distractor,0,1,0
+643Describe the life cycle of a human being,distractor,0,1,0
+1265How does an ant build an anthill?,analogy,0,1,1
+640Describe the lifecycle of a butterfly,random,0,0,0
+548How does a mechanical system of air compressor works?,random,0,0,0
+20How is waste transported through a sewage system?,random,0,0,0
+435How do you grow cells in a petri dish?,random,0,0,0
+1136How do bats locate their prey in the dark?,analogy,1,1,1
+721How does evaporation create condensation in the atmosphere?,distractor,1,1,0
+876How does snow form?,analogy,0,1,1
+496Describe the process of evaporation,analogy,1,1,1
+742How do dolphins use echolocation?,analogy,1,1,1
+58How does a bridge withstand the wind?,random,0,0,0
+158Describe the process of recycling a plastic bottle,analogy,1,1,1
+1053How does a heated building stay warm?,random,0,0,0
+7What causes a boiler to explode?,random,0,0,0
+834How does a bacteria cause a disease in humans?,analogy,0,1,1
+1127How does a tornado form?,analogy,1,1,1
+1333How does solar radiation heat a surface?,distractor,0,0,0
+587Describe the lifecycle of a bee,analogy,1,1,1
+135How does a radar system locate objects?,analogy,1,1,1
+232How does sonar work?,analogy,1,1,1
+1295How does a filtration system remove pollutants from air?,random,0,0,0
+493Describe the process of metamorphosis,analogy,0,1,1
+229How does a levee prevent rising water levels?,random,0,0,0
+1055How does a machine filter water?,distractor,0,1,0
+112How does a solar cell convert light energy into electrical energy?,distractor,0,0,0
+796How does the photosynthesis process work?,random,0,0,0
+834How does a bacteria cause a disease in humans?,distractor,0,1,0
+1144Describe how deforestation can negatively affect animals,random,0,0,0
+652Describe the growth and development of a human being,analogy,1,1,1
+1298How do people make decisions?,random,0,0,0
+22How is an ocean trench formed?,random,0,0,0
+557How do you make beer?,random,0,0,0
+1298How does a fish osmoregulate?,analogy,0,1,1
+1055How does an organism obtain nutrients from its environment?,random,0,0,0
+637Describe the life cycle of a human,analogy,0,1,1
+57How do clouds form?,analogy,0,1,1
+11What happens during soil erosion due to wind?,analogy,0,1,1
+652Describe the growth and development of a human being,distractor,0,1,0
+112What happens during respiration?,random,0,0,0
+20How is waste transported through a sewage system?,distractor,0,1,0
+656Describe the lifecycle of a frog,distractor,0,1,0
+1055How does a human body absorb nutrients from food?,random,0,0,0
+254How do animals use wind to help spread pollen?,analogy,0,1,1
+652Describe the life cycle of a human,random,0,0,0
+666Describe the process of dialysis,random,0,0,0
+588How does a mechanical system of water pump works?,distractor,0,0,0
+1203How do enzymes catalyze the production of proteins in a cell?,analogy,0,1,1
+157Describe the process of recycling a plastic bottle,analogy,1,1,1
+536How does a sewage system remove waste from a city?,distractor,0,1,0
+737How do people help spread cultural practices?,random,0,0,0
+731How does the erosion of soil affect the formation of ravines?,analogy,1,1,1
+771How does the cardiovascular system function?,analogy,0,1,1
+298How do viruses replicate and spread?,random,0,0,0
+852How does oil get from the ground to a refinery?,distractor,0,1,0
+1203How do enzymes catalyze the production of proteins in a cell?,distractor,0,1,0
+301How do you use a wheelchair?,random,0,0,0
+925How does an artificial lung work?,random,0,0,0
+1136How do cats hunt in the dark?,analogy,1,1,1
+656Describe the lifecycle of a human,analogy,0,1,1
+923How does a ventilation system work?,analogy,0,1,1
+253How do birds spread the pollen of flowers?,analogy,0,1,1
+165How does the digestive system break down food?,random,0,0,0
+917What causes an avalanche to occur?,analogy,0,0,1
+652Describe the growth and development of a human being,random,0,0,0
+1266How do ants build a nest?,analogy,0,1,1
+80How do glaciers shape the landscape?,random,0,0,0
+1299How do the lungs extract oxygen from the air?,analogy,0,0,1
+925How does a water filtration system work?,distractor,0,0,0
+640Describe the lifecycle of a butterfly,analogy,0,0,1
+7What causes an autoimmune disease to flare up?,analogy,0,1,1
+381How does a bacteria invade an organism?,analogy,1,1,1
+617Describe how water is transported through a tree,analogy,0,1,1
+139How does an air conditioning system works?,random,0,0,0
+842How does a hydraulic system of crane works?,distractor,0,0,0
+637Describe the life cycle of a human,random,0,0,0
+300How can viruses spread disease?,random,0,0,0
+1137How does the human immune system respond to a virus?,analogy,0,1,1
+253How do birds spread the pollen of flowers?,distractor,0,1,0
+936How does sedimentation affect a river's ecosystem?,distractor,0,1,0
+7What causes an earthquake to occur?,random,0,0,0
+731How does a riverbed erode?,analogy,1,1,1
+229How does a levee prevent rising water levels?,distractor,1,1,0
+880How does snow form?,random,0,0,0
+941How do people interact in a certain society?,analogy,0,1,1
+747How do tunnels form?,distractor,0,0,0
+548How does a mechanical system of air compressor works?,analogy,0,0,1
+393How does a government policy influence public opinion?,analogy,0,0,1
+253How do bacteria utilize viruses to help spread their genetic material?,distractor,0,0,0
+784How do viruses use cells to help spread their genetic information?,distractor,0,0,0
+1049How does a rock form?,analogy,0,1,1
+51How does the human immune system work?,random,0,0,0
+300How does a virus replicate itself?,analogy,0,1,1
+51How does the human immune system work?,analogy,0,0,1
+140How does a mechanical system of air compressor work?,analogy,0,0,1
+140How do the kidneys work?,analogy,0,0,1
+11What happens during deforestation of a rainforest?,analogy,0,1,1
+475How does the effect of human activities on climate change work?,analogy,1,1,1
+784How do viruses use cells to help spread their genetic information?,analogy,0,1,1
+132What does a filter do?,analogy,0,1,1
+393How does a government policy influence public opinion?,random,0,0,0
+31How do karst features form?,analogy,1,1,1
+301How do you ride a bicycle?,analogy,1,1,1
+900How does photosynthesis work?,analogy,0,0,1
+186How does bacteria grow on meat?,analogy,0,1,1
+1217How does an ecosystem function?,analogy,0,1,1
+720How does the condensation of water vapor form clouds?,analogy,1,1,1
+298How can viruses spread in a population?,analogy,1,1,1
+880How does the water cycle work?,distractor,1,1,0
+617Describe how air reaches the turbine of a jet engine,distractor,0,0,0
+1218How does a community of people form?,distractor,0,0,0
+950What happens during erosion?,analogy,1,1,1
+22How does the formation of a river basin occur?,distractor,1,1,0
+45How do clouds form?,analogy,0,1,1
+116How do viruses replicate?,analogy,0,0,1
+1061Describe the steps in conducting a survey research.,analogy,0,0,1
+48What happens during a steam turbine power plant operation?,distractor,0,0,0
+1217How does an ecosystem function?,random,0,1,0
+11What happens during deforestation of a rainforest?,distractor,0,1,0
+617Describe how nutrients are absorbed by cells in the body,analogy,0,1,1
+743How do wind currents disperse spores?,random,0,0,0
+1136How do cats hunt in the dark?,distractor,0,1,0
+770How does a mechanical ventilator work?,analogy,1,1,1
+617Describe how water is transported through a tree,distractor,0,1,0
+823How does a human heart pump blood?,distractor,0,0,0
+64How are canyons formed?,analogy,1,1,1
+771How does the cardiovascular system function?,random,0,0,0
+771How does a mechanical ventilation system work?,analogy,0,1,1
+135How do dolphins use sonar?,random,0,0,0
+112How does a solar cell convert light energy into electrical energy?,random,0,0,0
+644Describe the life cycle of a species,analogy,1,1,1
+116How do viruses replicate?,distractor,0,0,0
+681Describe the process of dormancy,analogy,1,1,1
+823How does a human heart pump blood?,analogy,0,0,1
+41How does a social movement become successful?,distractor,0,0,0
+867How does a bacterial colony proliferate on food?,analogy,0,0,1
+318What happens during the aging process?,random,0,0,0
+377Describe how air moves through a ventilation system,distractor,0,1,0
+1298How do people make decisions?,analogy,0,1,1
+300How can viruses spread disease?,analogy,1,1,1
+1204How is insulin produced in the pancreas?,analogy,0,1,1
+1154How is coal formed?,analogy,1,1,1
+742How do sonar devices detect objects?,analogy,1,1,1
+524Describe the life cycle of a plant,distractor,0,1,0
+416How does a damaged tissue regenerate?,analogy,0,1,1
+212How does the formation of clouds occur?,distractor,0,1,0
+22How do glaciers shape the landscape?,random,0,0,0
+852How does oil get from the ground to a refinery?,analogy,0,1,1
+618How does a ventilation system of a hospital work?,random,0,0,0
+377Describe how air moves through a ventilation system,random,0,0,0
+1310Describe how bears prepare for winter.,distractor,1,1,0
+31How does a tunnel form?,analogy,0,1,1
+737How do people help companies promote their products?,analogy,0,1,1
+796How does the photosynthesis process work?,distractor,0,0,0
+424How does water get from the ground to a reservoir?,analogy,0,1,1
+313How does corrosion cause metal to become weak?,distractor,0,1,0
+1051How does corrosion occur in metal parts?,distractor,0,1,0
+666Describe the process of filtration,analogy,0,1,1
+7How does a political system change over time?,analogy,0,0,1
+51How do structures build using metals form?,analogy,0,1,1
+1063Describe the steps in launching a rocket into orbit.,analogy,0,1,1
+412How does the human visual system work?,distractor,0,1,0
+116How do viruses replicate?,random,0,0,0
+656Describe the lifecycle of a frog,analogy,1,1,1
+20How is waste transported through a sewage system?,analogy,0,1,1
+644Describe the life cycle of a machine,analogy,0,1,1
+41What causes a tsunami to occur?,random,0,0,0
+499How does a solar panel system work?,analogy,0,1,1
+56How does rain form?,analogy,1,1,1
+643Describe the life cycle of a butterfly,random,0,0,0
+683Describe the process of decision-making,random,0,0,0
+731How does the erosion of soil affect the formation of ravines?,distractor,1,1,0
+135How do submarines use sonar?,analogy,1,1,1
+852How does oil get from the ground to an oil refinery?,analogy,0,1,1
+413How does the human visual system work?,analogy,0,1,1
+1266How does a spider weave a web?,distractor,0,1,0
+656Describe the lifecycle of a frog,random,0,0,0
+702Describe the process of climate change,distractor,1,1,0
+873How does a medicine get from the laboratory to a hospital?,analogy,0,1,1
+264How does composting work?,random,0,0,0
+80How do glaciers shape the landscape?,analogy,0,1,1
+852How does oil get from an oil well to a refinery?,distractor,0,1,0
+1136How do bats locate their prey in the dark?,distractor,1,1,0
+1099How do antibodies work?,analogy,0,1,1
+947How does a hydrological cycle of a river works?,analogy,1,1,1
+58How does a bridge withstand the wind?,analogy,0,1,1
+135How does a radar system work?,distractor,0,1,0
+254How do bacteria use other organisms to help spread their genetic material?,random,0,0,0
+300Describe how viruses can cause illness.,random,0,0,0
+253How do bacteria utilize viruses to help spread their genetic material?,random,0,0,0
+41What causes a tsunami to occur?,analogy,1,1,1
+50How does a metal alloy form?,random,0,0,0
+1204How is insulin produced in the pancreas?,distractor,0,1,0
+50How do crystals form?,random,0,0,0
+1055How does a bacteria get nutrients from a petri dish?,analogy,0,1,1
+636Describe the reproductive cycle of a species of fish,analogy,1,1,1
+686Describe the process of wastewater treatment,random,0,0,0
+867How does a bacterial colony proliferate on food?,random,0,0,0
+731How are canyons formed?,analogy,1,1,1
+466Describe the process of hemodialysis,analogy,0,1,1
+165How does the digestive system work?,distractor,1,1,0
+516Describe the life cycle of a human,distractor,0,1,0
+1062Describe the steps in launching a weather balloon into the atmosphere.,distractor,0,1,0
+1143Describe how air pollution can negatively affect human health,distractor,0,1,0
+666Describe the process of dialysis,analogy,0,1,1
+641Describe the life cycle of a robot,distractor,0,1,0
+852How does natural gas get from the ground to a power station?,distractor,1,1,0
+298How do viruses replicate and spread?,analogy,0,1,1
+31How are sinkholes formed?,distractor,0,1,0
+1265How does an ant build an anthill?,distractor,0,1,0
+773How do metals alloy together?,analogy,0,1,1
+611Describe how viruses can cause infections.,distractor,0,1,0
+529Describe the life cycle of a human,distractor,0,1,0
+536How does a sewage system remove waste from a city?,analogy,0,1,1
+480Describe the process of decision making,analogy,0,1,1
+15How does the nitrogen cycle work?,random,0,0,0
+397How does a solar-powered generator create energy?,random,0,0,0
+526Describe the life cycle of a tree,analogy,0,1,1
+165How does the digestive system break down food?,analogy,1,1,1
+640How does a robotic arm assembly works?,analogy,0,0,1
+1203How do enzymes catalyze the production of proteins in a cell?,random,0,0,0
+524Describe the life cycle of a plant,random,0,0,0
+186How does bacteria grow on meat?,distractor,0,0,0
+627Describe how a steam turbine works,random,0,0,0
+1142Describe how oil spills can negatively affect marine life,analogy,0,1,1
+20How is information transmitted across different cultures?,analogy,0,0,1
+165How does the process of digestion work?,analogy,0,1,1
+617Describe how water is transported through a tree,random,0,0,0
+31How does the formation of an underground cave occur?,analogy,1,1,1
+1143Describe how air pollution can negatively affect human health,random,0,0,0
+31How does a tunnel form?,random,0,1,0
+369How do the human body obtain and use water?,analogy,0,1,1
+640Describe the lifecycle of a butterfly,distractor,0,0,0
+112How does the human body metabolize food?,analogy,0,1,1
+1053How does the Earth's atmosphere maintain temperature?,analogy,0,1,1
+617Describe how nutrients travel through the vascular system,analogy,0,1,1
+436How do you get steam to condense?,analogy,1,1,1
+699Describe the process of photosynthesis in plants,analogy,0,0,1
+422How does oil get from a well to a refinery?,random,0,0,0
+1106Describe the life cycle of a bacterium.,analogy,0,1,1

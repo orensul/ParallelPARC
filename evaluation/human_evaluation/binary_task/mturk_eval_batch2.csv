@@ -1,0 +1,124 @@
+sample_id,source_paragraph,target_paragraph,type,ground_truth
+1150How does photosynthesis occur?,"Solar energy powers an electric current within a solar panel. 
+  The photovoltaic cells within the panel convert the energy from the sun into electricity. 
+  The electrical wires then distribute this power throughout the panel. 
+  The electric current is then used to power whatever the panel is connected to.","Photosynthesis occurs when sunlight powers chemical reactions within the chloroplasts of a plant.
+  The chloroplasts are able to convert the energy from the sunlight into usable energy for the plant.
+  This energy is then used to produce nutrients for the plant, which are then distributed throughout the plant.",far analogy,1
+468Describe the process of filtration,"Desalination is the process of removing salt from water. This is usually done with seawater. The seawater is passed through a membrane, which allows the water molecules to move through but not the salt molecules. Pressure is then used to force the water through the membrane, leaving behind the salt. This process produces freshwater that can be used for various purposes.","Filtration is a process used to remove particles from a liquid.
+  The liquid is passed through a filter, which has a mesh size that is small enough to catch the particles.
+  Pressure is then used to force the liquid through the filter, trapping the particles on the surface. The filtered liquid is then collected and the particles are discarded.",close analogy,1
+743How do robots pollinate crops?,"Bees play a crucial role in pollinating plants.
+  They collect pollen from the stamens of flowers and then fly to another flower to transfer the pollen grains.
+  The process of transferring the pollen grains from one flower to another is known as cross-pollination and is vital for the survival of many plant species.","Coal is mixed with hot air in a power station.
+ Water is sent through pipes in the power station.
+ The water pipes go through a firebox in the power station.
+ The coal is put in the air in the firebox.
+ The water heats up so it's very hot.
+ The water turns into steam.
+ The steam is pushed out of the pipes into a separate area.
+ The steam powers turbines.
+ Magnets in the turbines spin in wire coils.
+ Electricity is produced.",random,0
+637Describe the life cycle of a human,"The life cycle of a bird begins when a bird hatches from an egg. The young bird then grows its feathers and learns to fly. As it matures, the bird reproduces and produces offspring. In order to survive, the bird may also migrate for food.","The coal is pulverized to a very fine powder.
+ The coal powder is mixed with hot air and blown into the firebox of the boiler.
+ Water pumped through pipes inside the boiler is turned into steam by the heat.
+ The pressure of the steam pushing against a series of giant blades turns the turbine shaft.
+ Turbine shaft is connected to the shaft of the generator.
+ The magnets inside the generator spin within wire coils to produce electricity.",random,0
+140How does a mechanical system of air compressor work?,"The lungs are responsible for exchanging oxygen and carbon dioxide in the body. When we take a breath, oxygen enters the lungs. This is facilitated by the diaphragm contracting and expanding the chest cavity. The oxygen is then transported to the alveoli, where it is exchanged for carbon dioxide and then expelled out of the body.","A mechanical system of air compressor works by having air enter the compressor.
+  The air is then compressed by a piston that contracts within the cylinder.
+  A valve is used to exchange the air and exhaust.
+  The valve opens to allow air in and closes to push the compressed air out.
+  The process is repeated until the desired pressure is achieved.",far analogy,1
+397How does a solar-powered generator create energy?,"A wind-powered power station generates electricity by using wind turbines that capture kinetic energy from the wind.
+  This energy is then converted by a generator into electricity, which then flows through power lines to be used in homes and businesses.
+  The wind turbine captures the kinetic energy of the wind and converts it into electrical energy by spinning a generator, which then causes electricity to flow through the power lines.","Solar energy is captured by the solar panels. The electricity generated can then be used to power various electrical appliances. Afterward, the generator converts solar energy into electricity. Finally, electricity flows through wires to reach the appliances.",distractor,0
+1136How do bats locate their prey in the dark?,"Owls are able to hunt at night by using sound waves.
+  They use their specialized facial disc to send out sound waves and detect the prey.
+  The sound waves bounce off the objects and owls are able to locate the prey by interpreting the echoes. The owls also have an incredible sense of hearing which enables them to hone in on the prey.","Bats use a special technique called echolocation to hunt in the dark. The echoes allow the bats to detect the size, shape, and distance of the prey so they can locate it quickly and accurately. After detecting their prey, they emit high-frequency sound waves and detect the echoes that bounce off of nearby objects, which helps them locate their prey.",distractor,0
+1183How does a filter remove contaminants from water?,"A water purifier works by filtering out impurities from incoming water.
+  It does this by using a process of absorption to remove dissolved solids.
+  The water purifier also collects sediment in a chamber to capture particles like dirt and sand.
+  The process of filtration and absorption helps to ensure that the water is free from impurities.","Filters are used to remove contaminants from water.
+  They are capable of removing most toxins from water by adsorption.
+  The filter also acts as a physical barrier, collecting particles such as sediment and dust in a cartridge. These particles are then trapped and prevented from entering the water.",close analogy,1
+873How does a medicine get from the laboratory to a hospital?,"Oil is extracted from underground through the use of oil rigs.
+  The extracted oil is then transported by a tanker to various locations.
+  The tanker delivers the oil to gas stations, where it is distributed and used to fill up vehicles.
+  The oil is stored in large tanks and pumped into vehicles when needed.","The primary root breaks from the seed.
+ A shoot develops with a leaf.
+ The shoot breaks through the soil as a seedling.
+ The tree becomes a sapling when it gets taller than 3 ft.
+ The mature tree produces flowers or fruit.
+ Seeds are produced from the flowers or fruit.
+ A dead or dying tree is known as a snag.",random,0
+229How does a levee prevent rising water levels?,"Dams are constructed to help stop flooding by blocking the flow of a river.
+  The dam creates a reservoir that stores the water, enabling it to be released slowly.
+  Sluice gates are used to control the water levels, allowing for the water to be released when necessary.","A levee is designed to block rising water levels from flooding an area.
+  It is constructed to be higher than the expected water level, and it stores any flood water which rises above the levee's height.
+  In addition, flood gates can be used to control the water levels, allowing for the release of water in a controlled manner.",close analogy,1
+253How do bacteria utilize viruses to help spread their genetic material?,"Plants have evolved to attract animals to help them disperse their seeds.
+  The animals carry the seeds in their fur or on their feet, enabling the seeds to travel far away from the original plant.
+  This ensures the seeds are dispersed over a wide area and increases the chances of successful germination.","Humans are born as babies.
+ Babies become infants.
+ Infants become children.
+ Children learn skills.
+ Children become teenagers.
+ Teenagers undergo puberty.
+ Teenagers become adults.
+ Adults have children.
+ Adults become elderly.
+ Elderly humans die.",random,0
+51How do structures build using metals form?,"Minerals form through the process of crystallization. Crystals grow from a solution, either from a liquid or from a gas, where chemical reactions have changed the composition of the material. The rate at which the crystals form and the shape of the crystals can also be influenced by temperature, as changes in temperature can alter the crystal structure.","Structures are built from metals, which can be formed in different ways depending on their properties. Heat treatments can be applied to metals to alter their properties, allowing them to be formed in different ways. Alloying elements can also be added to metals to alter their mechanical strength, further affecting their formability.",far analogy,1
+643Describe the development of a human embryo,"The life cycle of a frog begins with the laying of eggs. The eggs then mature into tadpoles. The tadpole then grows over time and eventually transforms into a frog. Once the frog has reached adulthood, it lays eggs, and the cycle begins anew.","The development of a human embryo begins with the fertilization of an egg by a sperm, forming a zygote. Once the zygote is formed, the human immediately reaches maturity and is capable of producing its own offspring. After reaching maturity, the zygote then matures and develops into a fetus. Finally, the fetus grows and develops into a fully-formed human.",distractor,0
+611Describe how viruses can cause infections.,"Bacteria can cause disease when they invade human cells.
+  The bacteria produce toxins which can harm the cells and cause diseases.
+  These toxins can cause inflammation and damage to the cells, and can lead to a variety of illnesses such as food poisoning, urinary tract infections, and even more serious conditions.
+  Bacteria can also cause diseases by releasing toxins into the bloodstream which can cause a range of symptoms.","Viruses are microscopic organisms that can invade human cells. The infections caused by these viruses can range from mild to severe, depending on the type of virus and the number of cells it has invaded. After the infection has occurred, the virus then invades a human cell, producing toxins which can damage the cell and cause further infections.",distractor,0
+7What causes a boiler to explode?,"When magma heats up underground water, pressure begins to build up inside the volcano.
+  This pressure forces the magma to push against the walls of the volcano, leading to an eruption. The eruption is caused by the pressure of the magma against the walls of the volcano, as well as the heat of the magma heating up the underground water.","Steam heats the liquid inside the boiler, causing the pressure to build up.
+  As the pressure increases, the steam begins to push against the walls of the boiler.
+  The increased pressure can be too much for the boiler to take and if the pressure exceeds the boiler's capacity, it can cause an explosion.",far analogy,1
+413How does the human visual system work?,"The human auditory system is responsible for hearing. The ear is responsible for translating sound waves into electrical signals. These electrical signals are then processed by the cochlea. The cochlea is responsible for separating the signal into different frequencies and amplitudes. Once the signals have been processed, they are sent to the brain via the auditory nerve. The auditory nerve sends signals to the brain, which are then interpreted by the brain as sound.","The human visual system begins when the eye translates light waves into electrical signals.
+  These signals are then processed by the retina, where images are extracted.
+  The signals are then sent along the optic nerve to the brain, which interprets the signals to form an image.
+  The retina is responsible for processing the images into signals that the optic nerve can then send to the brain.",close analogy,1
+796How does the human respiratory system work?,"The lungs are responsible for exchanging oxygen and carbon dioxide. 
+  The alveoli absorb the carbon dioxide from the body and the bronchioles deliver oxygen-rich air to the alveoli. 
+  The oxygen is then passed into the bloodstream, where it is circulated throughout the body. 
+  The bronchioles also help to remove carbon dioxide from the body by delivering it back out of the lungs. 
+  The exchange of oxygen and carbon dioxide is essential for the body to function properly.","Blood is full of different waste.
+ Blood travels through the body.
+ The blood enters the kidneys.
+ The kidneys filter the blood.
+ The waste is seperated.
+ The urine contains the waste.
+ The urine is expelled from the body.",random,0
+254How do animals use wind to help spread pollen?,"Trees can spread their seeds in many ways, including with the help of animals. Birds are one of the most common animals used by plants to help disburse their seeds. Birds will often take the seeds and carry them to other locations to spread them. Mammals also help plants to disperse their seeds. Many mammals will consume the seeds and disperse them in their droppings. This helps to spread the seeds to other locations where they can grow.","Animals, such as insects, carry pollen from flower to flower. Bees, for example, collect nectar from flowers and in the process, inadvertently spread pollen to different flowers. The wind also helps to disperse the pollen from flowers, allowing for greater chances of fertilization.",close analogy,1
+536How does a sewage system remove waste from a city?,"The blood vessels transport waste materials and other unwanted substances away from the cells and towards the organs, such as the kidneys. The kidneys then filter out toxins and other harmful substances from the blood. After the kidneys have filtered out the toxins, the lymphatic system collects the unwanted material and transports it away from the body.","The sewage system is responsible for removing waste from the city. The treatment plant filters out pollutants and contaminants from wastewater before it even arrives. Pipes then transport wastewater from households and businesses to the treatment plant. Finally, the sewage system collects solid waste and disposes of it safely.",distractor,0
+57How do clouds form?,"Snow forms when water vapor in the atmosphere condenses into ice crystals.
+  This condensation occurs when the temperature drops below the freezing point.
+  As the ice crystals accumulate, they form snowflakes.
+  The more water vapor that condenses, the more snowflakes that form.","The droplets grow, become heavier, and eventually fall as rain. After the rain, the atmospheric pressure drops below the saturation point, and the droplets accumulate and form clouds. Following the formation of clouds, moisture in the air condenses into tiny droplets.",distractor,0
+112How does the human digestive system work?,"Photosynthesis is a process that occurs in plants and certain other organisms. During photosynthesis, sunlight provides energy which is used to convert carbon dioxide and water into sugars and oxygen. This conversion takes place in the chloroplast, and the oxygen produced is released into the atmosphere.","The human digestive system begins with the process of breaking down food particles.
+  Food provides essential nutrients that are necessary for proper bodily functions.
+  The stomach is the first organ to convert food particles into a liquid form.
+  From there, the nutrients are then transported through the small intestine, where the body absorbs them.
+  Finally, the waste is released into the colon and expelled from the body.",far analogy,1
+264How does composting work?,"Recycling involves sorting and collecting waste from various sources and delivering it to a recycling center.
+  At the recycling center, the waste is separated into different categories such as plastics, metals, and paper.
+  The plastics are then melted down and reused to create new products.
+  The other recyclables are processed and sold to the recycling industry for further use.","Magma rises to the surface during a volcano.
+ The magma undergoes changes in temperature.
+ The magma undergoes changes in pressure.
+ The magma cools.
+ The magma solidifies.
+ The magma crystallizes.
+ Igneous rock is formed.",random,0
+539How does the alveolar membrane work?,"The lungs are responsible for breathing in oxygen and exhaling carbon dioxide. They draw in air from the environment and filter it to remove any particles or pollutants. Oxygen is absorbed into the bloodstream to be circulated throughout the body, while the lungs exhale carbon dioxide as a by-product of the respiration process.","The alveolar membrane is a thin layer of tissue that is responsible for the exchange of oxygen and carbon dioxide in the body. It is composed of two layers, the alveolar epithelium and the capillary endothelium. It is responsible for filtering the air, absorbing oxygen, and releasing carbon dioxide into the body. The alveolar membrane facilitates the exchange of oxygen and carbon dioxide between the air and the bloodstream.",close analogy,1
+140How does a mechanical system of air compressor work?,"The lungs are responsible for exchanging oxygen and carbon dioxide in the body. When we take a breath, oxygen enters the lungs. This is facilitated by the diaphragm contracting and expanding the chest cavity. The oxygen is then transported to the alveoli, where it is exchanged for carbon dioxide and then expelled out of the body.","A mechanical system of air compressor works by having air enter the compressor.
+  The air is then compressed by a piston that contracts within the cylinder.
+  A valve is used to exchange the air and exhaust.
+  The valve opens to allow air in and closes to push the compressed air out.
+  The process is repeated until the desired pressure is achieved.",far analogy,1

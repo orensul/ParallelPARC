@@ -1,0 +1,187 @@
+,Unnamed: 0,sample_id,source_paragraph,target_paragraph,type,ground_truth,id
+7,109,618How does a ventilation system of a hospital work?,"The lungs are responsible for exchanging oxygen and carbon dioxide. Oxygen is inhaled and diffused into the bloodstream. The respiratory system then transports oxygen throughout the body. The blood carries the oxygen, allowing it to reach the cells. The oxygen is then used by the cells to carry out cellular functions.","A ventilator is used to exchange the air in a hospital.
+  The ventilator consists of ducts that transport the air throughout the building.
+  A fan is used to carry the air through the ducts and ensure its circulation.
+  The fan helps in providing fresh air and taking away polluted air, thus maintaining the air quality in the hospital.",far analogy,1,618
+91,763,1131How do cells build tissue?,"Bees collect nectar from flowers and secrete wax in order to construct a hive. The wax is used to form the honeycomb structure that serves as the foundation of the hive. The honeycomb structure is composed of hexagonal cells, which are used by bees to store nectar and pollen. By collecting, secreting, and constructing the wax, bees are able to create the perfect environment for their hive.","Cells build tissue by collecting nutrients and secreting proteins.
+ The proteins help to construct an extracellular matrix that binds the cells together, forming the tissue.
+ The extracellular matrix also provides structural support, allowing the cells to interact and coordinate with one another.
+ The cells also secrete molecules, such as hormones and growth factors, which help to regulate the growth and development of the tissue.",far analogy,1,1131
+197,204,784How do viruses use cells to help spread their genetic information?,"Plants rely on animals to help disperse their seeds.
+ The seeds of a plant may attach themselves to the fur of an animal, who then carries the seeds to a new location.
+ The animals may eat the seeds and, in the process, deposit them in a new area, thus ensuring the plants’ ability to spread to new locations."," The cells carry the genetic material of the virus and spread it to other cells. After the cells have spread the virus, the viruses attach their genetic material to surface proteins of cells. Finally, the viruses enter and use the cells to replicate.",distractor,0,784
+119,805,1059How does a water purification system work?,A dishwasher is a device that helps with the cleaning of dishes and other kitchen items. It works by pumping water through the system and circulating it around the dishes to clean them. A filter present in the system traps particles such as dirt and debris. Detergent is added to the water to help break down and remove grease and other dirt from the dishes. The water is eventually drained after the cycle is finished.,"Plants and animals long ago died.
+They are buried under layers of soil.
+Pressure builds over time.
+The remains liquefy.
+The carbon atoms rearrange to become a new substance.",random,0,1059
+36,637,232How does sonar work?,"Bats use echolocation to navigate their surroundings.
+  They emit sound waves which bounce off objects and return as an echo.
+  The echo reflects the sound waves back to the bat and the bat listens for the echo to return.
+  The echo helps the bat to determine the size and shape of the object with which it is interacting.","Sonar uses sound waves to detect objects. Ships emit sound waves which then travel underwater. When the sound waves hit an object, an echo is created. This echo reflects the sound waves back to the ship. The echo returns to the ship, allowing it to measure the distance and size of the object.",close analogy,1,232
+104,882,1127How does a tornado form?,"Hurricanes form when warm air rises in the atmosphere and creates an area of low air pressure in the center of the storm.
+ This low pressure causes the wind to rotate in a counter-clockwise direction, which increases the pressure of the surrounding air.
+ As the warm air continues to rise, the wind speed increases, creating powerful winds and intense precipitation.","Tornadoes form when warm air rises from the surface of the Earth into the atmosphere. 
+ The rising warm air creates an area of low air pressure in the center of the storm. 
+ This causes the air pressure to decrease and wind to begin to rotate in a counter-clockwise direction. 
+ The rotation of the wind causes the air to swirl, creating a tornado.",close analogy,1,1127
+10,619,637Describe the life cycle of a human,"The life cycle of a bird begins when a bird hatches from an egg. The young bird then grows its feathers and learns to fly. As it matures, the bird reproduces and produces offspring. In order to survive, the bird may also migrate for food.","The coal is pulverized to a very fine powder.
+The coal powder is mixed with hot air and blown into the firebox of the boiler.
+Water pumped through pipes inside the boiler is turned into steam by the heat.
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.
+Turbine shaft is connected to the shaft of the generator.
+The magnets inside the generator spin within wire coils to produce electricity.",random,0,637
+28,679,1183How does a filter remove contaminants from water?,"A water purifier works by filtering out impurities from incoming water.
+ It does this by using a process of absorption to remove dissolved solids.
+ The water purifier also collects sediment in a chamber to capture particles like dirt and sand.
+ The process of filtration and absorption helps to ensure that the water is free from impurities.","Filters are used to remove contaminants from water.
+ They are capable of removing most toxins from water by adsorption.
+ The filter also acts as a physical barrier, collecting particles such as sediment and dust in a cartridge. These particles are then trapped and prevented from entering the water.",close analogy,1,1183
+47,469,516Describe the life cycle of a human,"The life cycle of a frog begins with an egg, which hatches into a tadpole. As the tadpole develops, it eventually changes into an adult frog. The adult frog then mates and lays eggs, which in turn hatch into tadpoles and the cycle begins again. The entire process of the tadpole developing into an adult frog and the adult frog laying eggs to begin the cycle again is the life cycle of a frog."," The life cycle of a human begins with the fertilization of an ovum. The adult human can then mate, producing offspring and starting the cycle anew. After the adult human has mated and produced offspring, the ovum hatches into a fetus. Finally, the fetus develops into an adult human.",distractor,0,516
+55,98,252How do the layers of sedimentary rocks form?,"Growth rings form in response to seasonal weather changes in the tree trunk. These tree rings appear as a result of differing growth rates in the xylem of the tree. Tree rings represent the seasonal changes in growth, with wider rings representing years of plentiful growth, and narrower rings representing years with less growth.","Water comes into contact with something made of iron.
+The water combines with carbon dioxide in the air to form carbonic acid.
+As the acid is formed, the iron starts to dissolve.
+Some of the water breaks down into hydrogen and oxygen.
+The free oxygen and dissolved iron bond together.
+They form iron oxide, which is rust.",random,0,252
+51,500,51How do structures build using metals form?,"Minerals form through the process of crystallization. Crystals grow from a solution, either from a liquid or from a gas, where chemical reactions have changed the composition of the material. The rate at which the crystals form and the shape of the crystals can also be influenced by temperature, as changes in temperature can alter the crystal structure.","Structures are built from metals, which can be formed in different ways depending on their properties. Heat treatments can be applied to metals to alter their properties, allowing them to be formed in different ways. Alloying elements can also be added to metals to alter their mechanical strength, further affecting their formability.",far analogy,1,51
+62,6,263How does a mechanical system of waste management work?,"Recycling works by taking garbage and separating it into recyclables such as paper, glass, and plastic. Paper is then ground into fibers, while glass is melted into pellets. The recycled materials are then used to create new products, reducing the need for new materials and helping to conserve the environment.","You inhale.
+Your diaphragm moves down.
+Your lungs have more room.
+Your lungs fill with air.
+You exhale.
+Your diaphragm moves back up.
+Carbon dioxide is exhaled.
+You start the process over again.",random,0,263
+187,779,435How do you grow cells in a petri dish?,Growing vegetables starts with soil that provides essential nutrients for the plants. The seeds are then planted in the soil and watered regularly. Sunlight is also important as it helps the plants to grow and develop. The soil and sunlight provide the necessary environment for the vegetables to thrive.,"The growth medium provides the necessary nutrients for the cells to grow.
+ Cell samples are plated in the growth medium and placed into an incubator.
+ The incubator helps the cells to grow in the petri dish by providing the right temperature and humidity levels.
+ The cells use the nutrients from the growth medium to divide and multiply.",far analogy,1,435
+193,383,587Describe the lifecycle of a bee,"The lifecycle of a butterfly begins when it hatches from a cocoon. The caterpillar will feed on nectar before it begins the transformation into an adult butterfly. Through metamorphosis, the caterpillar changes from a small worm-like creature into a beautiful winged insect. Once transformed, the butterfly will feed on nectar and fly away.","The lifecycle of a bee starts with a bee hatching from a cell.
+  The larva will then feed on pollen and nectar to grow.
+  Eventually, the larva will transform into an adult bee and begin to look for a place to build a hive.
+  The bee will use the pollen it collected to build the hive and will then start the cycle of reproduction.
+  This transformation from larva to adult is a crucial part of the bee's lifecycle.",close analogy,1,587
+44,709,1298How does a fish osmoregulate?,"The kidneys are important organs in the body responsible for filtering blood.
+ The glomerulus acts as a filter to remove blood cells and other unwanted substances from the blood.
+ The tubule then absorbs important nutrients and electrolytes from the filtered blood and passes it back into the bloodstream.
+ Finally, the ureter excretes the waste products in the form of urine.","Fish osmoregulate by regulating the concentration of salts and other particles in the water around them.
+ Their gills filter the seawater and remove the salts and other particles.
+ The gut then absorbs the nutrients that the fish needs for growth and sustenance.
+ Finally, the nephridia excretes any waste that the fish does not need.",far analogy,1,1298
+74,789,1167How is the light of a star created?,"Sunlight is created when the Sun emits light.
+ The light is produced by the nuclear fusion of hydrogen atoms within the Sun, which results in the release of energy.
+ This energy is in the form of photons, which travel through space and reach Earth.","Stars emit light due to the process of nuclear fusion.
+ This process produces energy which is released in the form of photons.
+ These photons travel through space to reach the Earth and create the visible light of a star.",close analogy,1,1167
+40,635,264How does composting work?,"Recycling involves sorting and collecting waste from various sources and delivering it to a recycling center.
+ At the recycling center, the waste is separated into different categories such as plastics, metals, and paper.
+ The plastics are then melted down and reused to create new products.
+ The other recyclables are processed and sold to the recycling industry for further use.","Magma rises to the surface during a volcano.
+The magma undergoes changes in temperature.
+The magma undergoes changes in pressure.
+The magma cools.
+The magma solidifies.
+The magma crystallizes.
+Igneous rock is formed.",random,0,264
+89,446,45How do clouds form?,"Rain forms when water vapor in the atmosphere condenses into droplets.
+  The process of condensation is triggered by heat, which evaporates ocean water into the atmosphere.
+  When the atmosphere cools, the water droplets freeze and form rain."," Heat from the Sun evaporates moisture from the ground. In cold temperatures, the ice crystals can freeze, creating a thicker cloud. Afterward, moisture rises in the air and cools. Finally, when the air cools, it causes the moisture to condense, forming clouds.",distractor,0,45
+19,439,22How do glaciers shape the landscape?,"Valleys are formed through a combination of natural forces. Rainfall erodes the rock surfaces, gradually wearing them away. A river then carves out a valley as it flows through the land. Earthquakes can also shift landmasses and further shape the valley.","A plant produces a fruit with seeds in it.
+An animal eats the fruit.
+The animal wanders to another area.
+The animal defecates.
+The seeds are included in the waste.
+The seeds produce a new plant.",random,0,22
+1,869,31How do karst features form?,"Caverns are formed when water erodes limestone.
+  This erosive action slowly wears away the rock and creates hollows in the Earth's surface.
+  Over time, these hollows can become large enough to form a cave underground.
+  The water also carries debris away, further deepening the cave and forming various features such as stalactites and stalagmites."," Rainwater erodes bedrock over time. As a result, the dissolution of the bedrock by rainwater creates voids in the bedrock. Following the creation of voids, erosion then creates subterranean caverns by removing material from the bedrock. Finally, these voids in the bedrock further contribute to the formation of karst features.",distractor,0,31
+43,196,212How does the formation of clouds occur?,"Rain occurs when water vapor is created through the process of evaporation.
+  The sun's energy heats the ground, causing warm air to rise up into the atmosphere.
+  The warm air then cools and condenses, forming clouds.
+  The clouds become too heavy with water droplets and eventually precipitate, resulting in rain."," The air rises to a higher altitude. After rising, the sun's energy heats the air. At the higher altitude, the air cools and condenses to form clouds. The condensation creates tiny water droplets that accumulate together to form larger clouds.",distractor,0,212
+64,295,686Describe the process of wastewater treatment,"Photosynthesis is the process by which plants use light to produce energy. Light provides the energy needed to convert carbon dioxide and water into glucose, a sugar used as a source of energy for the plant. Carbon dioxide is absorbed by the plant from the atmosphere, while water is taken in through the roots. Oxygen is then released into the atmosphere as a byproduct of the process."," Initially, the bacteria break down the pollutants. Following this, chemicals are added to the wastewater to provide necessary nutrients for bacteria which can absorb pollutants. Finally, the clean water is then released into rivers.",distractor,0,686
+154,924,1295How does a filtration system remove pollutants from air?,"Sea water is pumped into the desalination plant.
+ The salt is then filtered out through a reverse osmosis membrane.
+ This membrane is designed to allow water to pass through while blocking the salt molecules.
+ The desalinated water is then produced at the outlet of the plant.","Magma is formed when rock melts inside the Earth's crust.
+Magma rises.
+Collects inside magma chambers underneath a volcano.
+Pressure builds in the magma chambers as they fill.
+Gain energy for eruption.
+Some of the energy is converted into seismic activity (earthquakes).
+If the magma building in the volcano is thick and sticky it will trap gases.
+Results in an explosive eruption when the pressure becomes too intense.
+If the magma is thin and runs.
+The magma results in a low-pressure, slow-moving flow of magma instead of a violent eruption.",random,0,1295
+102,714,43How does a smokestack form?,"Rain forms when moisture condenses in the atmosphere.
+  Air rises as it heats up, causing the moisture in the air to condense into clouds.
+  When the air reaches its dew point, its temperature drops and causes the moisture to form droplets.
+  The droplets gather and become heavy enough to fall as rain.","A smokestack forms when hot gases condense due to a decrease in pressure.
+  When the pressure drops below the condensation point, the hot gases form a smokestack, which then rises into the sky as smoke.",far analogy,1,43
+135,409,424How does water get from the ground to a reservoir?,"Oil is extracted from the ground by drilling.
+  The oil is then transported through pipelines to a refinery, where it is processed.
+  Once the oil is processed, it is transported to a gas station, where it can be purchased.","The water is extracted from the ground through a borehole.
+  The water is then transported through aqueducts to the reservoir.
+  At the reservoir, the water is processed through a treatment plant.
+  The treatment plant makes sure that the water is safe to drink and then it is stored in the reservoir for future use.",close analogy,1,424
+125,583,936How does sedimentation affect a river's ecosystem?,"Erosion by the ocean is a natural process that occurs over time. Ocean waves erode the coastline, while salt water dissolves rocks. The seawater then deposits the sediments back onto the shoreline, forming new land forms. This process of erosion and deposition are essential in creating and maintaining the coastlines."," The sediments form layers in the riverbed. Then, fresh water dissolves the sediment, making it easier for the river water to carry and deposit them. Afterward, the river current erodes the riverbank, allowing sediment to enter the river water. Finally, the disrupted original ecosystem creates a new habitat for species that are adapted to the new environment.",distractor,0,936
+79,855,425How does water get from the ground to a household?,"Oil is extracted from an underground reservoir and transported by pipelines.
+ From here, it is transported to a refinery where it is refined and processed into the fuel we use in our vehicles.
+ The refined oil is then transported to gas stations via tankers, where it can be purchased for use in our cars.","Water is extracted from an aquifer located underground.
+ It is then transported through a system of pipes to a water treatment plant.
+ At the treatment plant, the water is purified and tested for safety before it is transported to the households.",far analogy,1,425
+16,904,253How do bacteria utilize viruses to help spread their genetic material?,"Plants have evolved to attract animals to help them disperse their seeds.
+ The animals carry the seeds in their fur or on their feet, enabling the seeds to travel far away from the original plant.
+ This ensures the seeds are dispersed over a wide area and increases the chances of successful germination.","Humans are born as babies.
+Babies become infants.
+Infants become children.
+Children learn skills.
+Children become teenagers.
+Teenagers undergo puberty.
+Teenagers become adults.
+Adults have children.
+Adults become elderly.
+Elderly humans die.",random,0,253
+83,16,823How does a human heart pump blood?,"A coal-powered power station generates electricity by burning coal in combustion turbines.
+ The heat generated by the combustion turbines is used to turn a generator, which then produces electrical power.
+ The electricity is then sent to a transformer, which increases the voltage of the electricity before it is sent to the grid.
+ To regulate the current and ensure safety, a circuit breaker is used to detect and stop any faults in the system.","The ventricles of the heart generate a pressure that pushes the blood out of the heart.
+ Valves in the heart prevent the blood from flowing back in, which increases the blood flow throughout the body.
+ The arteries then regulate the oxygen levels in the blood, ensuring that the body gets enough oxygen.",far analogy,1,823
+29,510,413How does the human visual system work?,"The human auditory system is responsible for hearing. The ear is responsible for translating sound waves into electrical signals. These electrical signals are then processed by the cochlea. The cochlea is responsible for separating the signal into different frequencies and amplitudes. Once the signals have been processed, they are sent to the brain via the auditory nerve. The auditory nerve sends signals to the brain, which are then interpreted by the brain as sound.","The human visual system begins when the eye translates light waves into electrical signals.
+ These signals are then processed by the retina, where images are extracted.
+ The signals are then sent along the optic nerve to the brain, which interprets the signals to form an image.
+ The retina is responsible for processing the images into signals that the optic nerve can then send to the brain.",close analogy,1,413
+70,708,1051How does corrosion occur in metal parts?,"Rust is the result of a reaction between oxygen and iron atoms.
+ When oxygen reacts with iron, it forms iron oxide, which is commonly known as rust.
+ The presence of water can accelerate the oxidation process, causing rust to form more quickly.","Water vapor is in warm air.
+The warm air cools.
+The warm air expands.
+The water vapor in the air condenses.
+The water vapor forms water droplets or ice crystals.",random,0,1051
+101,217,834How does a bacteria infect a plant?,"A virus infects an animal by invading its cells.
+ The virus can enter the animal's body through contact with contaminated surfaces, or by being breathed in or ingested.
+ Once inside the animal, the virus will replicate itself, using the animal's cells to do so.
+ This allows the virus to spread rapidly throughout the animal's body, causing infection."," Inside the plant cell, the bacteria multiplies and spreads. Following this, the bacteria enters the plant’s cell through the stomata or wounds. Eventually, the bacteria takes over the plant. Finally, the bacteria continues to replicate itself until the infection is complete.",distractor,0,834
+106,247,493Describe the process of metamorphosis,"Hibernation is a process that many animals enter in order to survive during colder seasons. It is characterized by a lowering of body temperature and a slowing of the heart rate. As the animal enters a dormant state, it is able to conserve energy by storing it in its body instead of spending it to stay warm.","Warm air rises.
+Then it expandes and cools.
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.
+Forms a tiny droplet around each dust particle.
+Billions of these droplets come together they become a visible cloud.",random,0,493
+38,390,643Describe the life cycle of a butterfly,"A frog's life cycle begins with an egg which hatches into a tadpole. The tadpole then develops legs, lungs, and the ability to breathe air. The tadpole then turns into a frog and gains the ability to move around and live on land. The frog then lays eggs to start the cycle over again.","The life cycle of a butterfly begins with an egg which hatches into a caterpillar. During its growth, the caterpillar develops wings which enable it to fly. As an adult, the butterfly breathes air and feeds on nectar from flowers. The butterfly then lays eggs, which begins the cycle anew.",close analogy,1,643
+94,456,702Describe the process of climate change,"The greenhouse effect is a process in which certain gases in the atmosphere, such as carbon dioxide and methane, trap heat from the sun as it enters the atmosphere. This trapped heat is then prevented from escaping, causing the temperature of the Earth's surface to rise."," Climate change is caused by the trapping of infrared radiation by carbon dioxide in the atmosphere. Solar radiation enters the atmosphere and is partially trapped by carbon dioxide. The global temperature rises at the surface due to the trapped solar radiation. A shift in global climate patterns is observed. After the shift, the trapped energy is released as heat. Finally, the gradual warming of the planet occurs.",distractor,0,702
+86,235,1099How do antibodies work?,"Vaccinations work by stimulating the body's immune system.
+ A vaccine contains an inactive version of a virus or bacteria.
+ When the vaccine is injected into the body, it activates the T-cells, which are the immune system's main defense against pathogens.
+ The T-cells recognize the inactive virus or bacteria and respond by producing memory cells.
+ These memory cells remain in the body, allowing the immune system to recognize the virus or bacteria if it is encountered again and respond quickly, preventing the infection from taking hold.","Antigens stimulate the production of antibodies by activating B-cells. After the antibodies are produced, memory B-cells are created to recognize the same antigen if it enters the body again. The antibodies then recognize and bind to the antigen, helping to protect the body from infection or disease.",far analogy,1,1099
+60,158,141How do plants photosynthesize?,"The lungs are responsible for taking in oxygen and releasing carbon dioxide. They work by exchanging these two gases. Oxygen is taken in through the inhalation of air and carbon dioxide is released during exhalation. The lungs transport oxygen around the body, while carbon dioxide is expelled. This exchange of gases helps keep the body functioning and healthy.","Plants use photosynthesis to produce energy. During this process, leaves of the plant take in carbon dioxide from the air. The leaves then use this carbon dioxide, along with sunlight, to produce energy. This energy is then used for various processes in the plant. As a result of this process, the leaves release oxygen back into the air. In addition, the leaves exchange other gases such as water vapor.",far analogy,1,141
+85,622,280How does a solar cell produce energy?,"An electromagnet is an object that generates a magnetic field when an electric current is applied.
+ When an electric current flows through the copper wire, a magnetic field is created.
+ The iron core of the electromagnet amplifies this magnetic field, creating a stronger field than what would be generated without the iron core."," Photons from the sunlight are absorbed by the solar cell. Then, electrons begin to flow through a semiconductor, usually made from silicon. Afterward, these photons generate electrons. Finally, the silicon amplifies the electric current, creating usable energy.",distractor,0,280
+58,563,617Describe how nutrients are absorbed by cells in the body,"Oxygen is transported to cells in the body by the respiratory system. The lungs absorb oxygen from the air and transport it through the bloodstream. Oxygen diffuses through the cell membrane, allowing the cells to absorb the oxygen that they need to function.","Nutrients are transported to the body by the digestive system after being consumed.
+  Once they reach the small intestine, they are absorbed by the cells and diffused through the cell membrane.
+  The nutrients are then processed by the cells in various ways, allowing the body to use them for energy and other essential functions.",close analogy,1,617
+35,264,852How does oil get from an oil well to a refinery?,"Coal is extracted from underground by miners. The miners use machines to mine the coal and then transport it to the surface by trucks. From there, the coal is transported to the power station using large trucks, trains, or conveyor belts. The coal is then used to generate electrical energy in the power station.","Oil is extracted from underground using drillers. The drillers drill into the ground to reach the oil, which is then pumped out of the well. Once out, the oil is transported by tankers to a refinery. The oil is then refined into usable byproducts.",close analogy,1,852

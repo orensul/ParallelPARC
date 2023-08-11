@@ -1,0 +1,60 @@
+In this task, you'll be given two paragraphs that describe scientific processes. Your goal is to decide whether the processes are analogous.
+Analogy is a mapping in which the objects of one process are structurally aligned with the objects of another.
+It is based on similarity of the relationships between the objects and the roles they play throughout the process, and not on the similarity between object attributes.
+For example, there is an analogy between a paragraph about "How does an electrical circuit work?", and a paragraph about "How does a mechanical water pump work?". In this analogy, electrons are mapped to water: both start at some state (low voltage/low pressure), then move through something (wire/pipe), and change their state (high voltage/high pressure) because of another object (battery/pump).
+Similar first order relations between the domains include:
+(battery, creates, electrical voltage) like (pump, generates, pressure)
+(electrons, move through, copper wire) like (water, flows through, pipe).
+On the other hand, if for example the second paragraph about the pump is describing that: first the water flows inside the pipe, and following this the pump creates pressure, it changes the cause and effect relationship (higher order relation) to be different from the first paragraph about the electrical circuit, and in this case, the processes are not analogous.
+Answer "1" if the two paragraphs describe analogous processes, and "0" if not.
+Inputs: First Paragraph, Second Paragraph
+Outputs: Answer
+
+First Paragraph:
+A wind-powered power station generates electricity by using wind turbines that capture kinetic energy from the wind.
+This energy is then converted by a generator into electricity, which then flows through power lines to be used in homes and businesses.
+The wind turbine captures the kinetic energy of the wind and converts it into electrical energy by spinning a generator, which then causes electricity to flow through the power lines.
+Second Paragraph:
+Solar energy is captured by the solar panels. The electricity generated can then be used to power various electrical appliances. Afterward, the generator converts solar energy into electricity. Finally, electricity flows through wires to reach the appliances.
+Answer: 0
+
+First Paragraph:
+Floods happen when heavy rain saturates the soil, causing water to accumulate in low-lying areas.
+The excess water can cause the ground to become unstable, leading to flooding.
+Second Paragraph:
+A heavy snowfall saturates the mountain slope. This instability then causes the snow to break loose. After the snow breaks loose, it accumulates on the steep slopes. As the snow accumulates, it becomes increasingly unstable. Finally, the avalanche is created.
+Answer: 0
+
+First Paragraph:
+Bats use echolocation to navigate and find food. They emit high frequency sound waves that bounce off of objects in their environment. The bats then receive the echoes and interpret the information to locate their prey and navigate their surroundings. The echo provides the bats with information about the shape, size, and distance of the object.
+Second Paragraph:
+Submarines interpret the echo to determine the distance and size of the object. After interpreting the echo, they emit sound waves, which travel through the water and bounce off the objects. These sound waves are then received back as an echo. Finally, submarines use sonar technology to detect objects in the water.
+Answer: 0
+
+First Paragraph:
+Floods happen when there is an excessive amount of rainfall in a certain area.
+The rain causes the ground to be saturated, leading to flooding.
+The flood water can damage buildings and crops, as well as cause disruption to transport and other infrastructure.
+In addition, rivers can overflow their banks due to the high levels of water, leading to even further flooding.
+Second Paragraph:
+The wind causes vibration and can damage structures, so engineers must design bridges to withstand the forces the wind exerts.
+The wind can produce a force that pushes the bridge sideways and could cause it to collapse if not designed properly.
+Engineers must build bridges in such a way that the wind does not exert too much force on the bridge, and that the bridge is able to withstand the vibration caused by the wind."
+Answer : 1
+
+First Paragraph:
+Igneous rocks are formed from molten material. This molten material is known as magma and it solidifies into rock as it cools. As the magma cools, crystals form within it, creating the igneous rock. The combination of the cooling of magma and the formation of crystals is what creates igneous rock.
+Second Paragraph:
+People come together to form a social movement.
+The organization of people, who have a common goal, creates a movement.
+Social movements are formed from collective action, as individuals come together to fight for a shared cause.
+By uniting, people can accomplish goals that they cannot achieve on their own.
+Answer : 1
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+In this task, you'll be given two paragraphs that describe scientific processes. Your goal is to decide whether the processes are analogous.
+Analogy is a mapping in which the objects of one process are structurally aligned with the objects of another.
+It is based on similarity of the relationships between the objects and the roles they play throughout the process, and not on the similarity between object attributes.
+For example, there is an analogy between a paragraph about "How does an electrical circuit work?", and a paragraph about "How does a mechanical water pump work?". In this analogy, electrons are mapped to water: both start at some state (low voltage/low pressure), then move through something (wire/pipe), and change their state (high voltage/high pressure) because of another object (battery/pump).
+Similar first order relations between the domains include:
+(battery, creates, electrical voltage) like (pump, generates, pressure)
+(electrons, move through, copper wire) like (water, flows through, pipe).
+On the other hand, if for example the second paragraph about the pump is describing that: first the water flows inside the pipe, and following this the pump creates pressure, it changes the cause and effect relationship (higher order relation) to be different from the first paragraph about the electrical circuit, and in this case, the processes are not analogous.
+Answer "1" if the two paragraphs describe analogous processes, and "0" if not.
+
+First Paragraph:
+{}
+Second Paragraph:
+{}
