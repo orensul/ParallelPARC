@@ -64,6 +64,7 @@ def mc_advanced():
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
 
     grouped = merged_df.groupby('sample_id')['answer'].nunique()
+    print("Number of unique sample_ids: " + str(len(grouped)))
     agreement_count = sum(grouped == 1)
     print('Number of sample_ids with full agreement:', agreement_count)
     print('Agreement ratio: ' + str( agreement_count / len(grouped)))
@@ -97,11 +98,12 @@ def get_percentage_wrong_due_distractor(majority_vote_df):
 
 
 def main():
-    print("--- eval humans mc basic ---")
-    accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_basic()
+    # print("--- eval humans mc basic ---")
+    # accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_basic()
     print("--- eval humans mc advanced ---")
     accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_advanced()
-    get_percentage_wrong_due_distractor(majority_vote_df)
+    majority_vote_df.to_csv('test.csv')
+    # get_percentage_wrong_due_distractor(majority_vote_df)
 
 
 
