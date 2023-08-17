@@ -98,12 +98,12 @@ def get_percentage_wrong_due_distractor(majority_vote_df):
 
 
 def main():
-    # print("--- eval humans mc basic ---")
-    # accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_basic()
+    print("--- eval humans mc basic ---")
+    accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_basic()
     print("--- eval humans mc advanced ---")
     accuracy_per_worker, acc_per_type_maj_vote, majority_vote_df = mc_advanced()
-    majority_vote_df.to_csv('test.csv')
-    # get_percentage_wrong_due_distractor(majority_vote_df)
+    print("--- errors due to distractor ---")
+    get_percentage_wrong_due_distractor(majority_vote_df)
 
 
 
