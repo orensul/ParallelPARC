@@ -63,7 +63,7 @@ def get_majority_vote(new_df):
 
 def zero_shot_exp():
     mturk_df = pd.read_csv('mturk_results_zero_shot.csv')
-    gt_df = get_gt_df(['mturk_eval_batch2.csv', 'mturk_eval_batch3.csv'])
+    gt_df = get_gt_df(['mturk_for_eval_zero_shot.csv'])
     merged_df = gt_df.merge(mturk_df, how='inner', on=['source_paragraph', 'target_paragraph'])
     merged_df['is_correct'] = merged_df['prediction'] == merged_df['ground_truth']
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
@@ -92,7 +92,7 @@ def zero_shot_exp():
 
 def supervised_exp():
     mturk_df = pd.read_csv('mturk_results_supervised.csv')
-    gt_df = get_gt_df(['mturk_eval_batch4.csv'])
+    gt_df = get_gt_df(['mturk_for_eval_supervised.csv'])
 
     merged_df = gt_df.merge(mturk_df, how='inner', on=['source_paragraph', 'target_paragraph'])
     merged_df['is_correct'] = merged_df['prediction'] == merged_df['ground_truth']
