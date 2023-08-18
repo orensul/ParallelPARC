@@ -7,4 +7,4 @@ In total, 25 samples, 100% accuracy (majority vote), 88% agreement (std=0.04). <
 In total, 50 samples, 96% accuracy (majority vote), 66% agreement (std=0.04). <br> Errors due to choosing the distractors (100% of the cases) <br>
 * The code "eval_humans_mc.py" run this evaluation and prints the results.
 * We REDACTED from the code any information about the Workers of Amazon Mechanical Turk for anonymity. <br>
-* We REDACTED from the code any information about the authors of the paper or anonymity.
+* We REDACTED from the code any information about the authors of the paper for anonymity. <br>
