@@ -29,10 +29,7 @@ def find_index(row, candidates_column_name='candidates_paragraphs_y', distractor
 
 def mc_basic():
     gt_mc_basic = pd.read_csv('eval_mc_basic.csv')
-    mturk_mc_basic = pd.read_csv('mturk_eval_mc_basic_merged_results.csv')
-    mturk_mc_basic = mturk_mc_basic[['WorkerId', 'Input.candidates_paragraphs', 'Input.first_paragraph', 'Answer.target_paragraph_number', 'Answer.sample_id']]
-    mturk_mc_basic = mturk_mc_basic.rename(columns={'Input.candidates_paragraphs': 'candidates_paragraphs', 'Input.first_paragraph' : 'first_paragraph', 'Answer.target_paragraph_number' : 'answer', 'Answer.sample_id' : 'sample_id'})
-    mturk_mc_basic['answer'] = mturk_mc_basic['answer'].replace({1:'C1', 2:'C2', 3:'C3', 4:'C4'})
+    mturk_mc_basic = pd.read_csv('mturk_results_mc_basic.csv')
     merged_df = gt_mc_basic.merge(mturk_mc_basic, how='inner', on=['sample_id'])
     merged_df['is_correct'] = merged_df['answer'] == merged_df['ground_truth']
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
@@ -52,13 +49,7 @@ def mc_basic():
 
 def mc_advanced():
     gt_mc_advanced = pd.read_csv('eval_mc_advanced.csv')
-    mturk_mc_advanced = pd.read_csv('mturk_eval_mc_advanced_merged_results.csv')
-
-
-    mturk_mc_advanced = mturk_mc_advanced[['WorkerId', 'Input.candidates_paragraphs', 'Input.first_paragraph', 'Answer.target_paragraph_number', 'Answer.sample_id']]
-    mturk_mc_advanced = mturk_mc_advanced.rename(columns={'Input.candidates_paragraphs': 'candidates_paragraphs', 'Input.first_paragraph' : 'first_paragraph', 'Answer.target_paragraph_number' : 'answer', 'Answer.sample_id' : 'sample_id'})
-    mturk_mc_advanced['answer'] = mturk_mc_advanced['answer'].replace({1:'C1', 2:'C2', 3:'C3', 4:'C4'})
-
+    mturk_mc_advanced = pd.read_csv('mturk_results_mc_advanced.csv')
     merged_df = gt_mc_advanced.merge(mturk_mc_advanced, how='inner', on=['sample_id'])
     merged_df['is_correct'] = merged_df['answer'] == merged_df['ground_truth']
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
@@ -109,4 +100,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 

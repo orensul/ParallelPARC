@@ -11,21 +11,6 @@ def clean_string(s):
 
 
 
-def get_mturk_result_df(list_of_file_paths):
-    dataframes = []
-    for path in list_of_file_paths:
-        print(path)
-        dataframes.append(pd.read_csv(path))
-    mturk_df = pd.concat(dataframes)
-    mturk_df.reset_index(drop=True, inplace=True)
-    mturk_df = mturk_df[mturk_df['WorkerId'].isin(['A9HQ3E0F2AGVO', 'A2R1GDWV4RLIUY', 'A3RVHUY67SVXQV'])]
-    mturk_df = mturk_df[['WorkerId', 'Input.source_paragraph', 'Input.target_paragraph', 'Answer.analogy_flag.analogy', 'Answer.analogy_flag.not_analogy']]
-    mturk_df['prediction'] = mturk_df['Answer.analogy_flag.analogy'].apply(lambda x: 1 if x == True else 0)
-    mturk_df = mturk_df[['WorkerId', 'Input.source_paragraph', 'Input.target_paragraph', 'prediction']]
-    mturk_df = mturk_df.rename(columns={'Input.source_paragraph': 'source_paragraph', 'Input.target_paragraph' : 'target_paragraph'})
-    mturk_df['source_paragraph'] = mturk_df['source_paragraph'].apply(clean_string)
-    mturk_df['target_paragraph'] = mturk_df['target_paragraph'].apply(clean_string)
-    return mturk_df
 
 def get_gt_df(list_of_file_paths):
     dataframes = []
@@ -67,7 +52,6 @@ def zero_shot_exp():
     merged_df = gt_df.merge(mturk_df, how='inner', on=['source_paragraph', 'target_paragraph'])
     merged_df['is_correct'] = merged_df['prediction'] == merged_df['ground_truth']
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
-
     grouped = merged_df.groupby(['source_paragraph', 'target_paragraph'])['prediction'].std()
     agreement_count = sum(grouped == 0)
     print('Number of sample_ids with full agreement:', agreement_count)
@@ -93,11 +77,9 @@ def zero_shot_exp():
 def supervised_exp():
     mturk_df = pd.read_csv('mturk_results_supervised.csv')
     gt_df = get_gt_df(['mturk_for_eval_supervised.csv'])
-
     merged_df = gt_df.merge(mturk_df, how='inner', on=['source_paragraph', 'target_paragraph'])
     merged_df['is_correct'] = merged_df['prediction'] == merged_df['ground_truth']
     merged_df['is_correct'] = merged_df['is_correct'].apply(lambda x: 1 if x == True else 0)
-
 
     grouped = merged_df.groupby(['source_paragraph', 'target_paragraph'])['prediction'].std()
     agreement_count = sum(grouped == 0)

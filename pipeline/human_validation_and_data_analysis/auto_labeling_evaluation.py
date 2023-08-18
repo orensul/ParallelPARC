@@ -108,14 +108,6 @@ def main():
 
 if __name__ == '__main__':
     main()
-    # print(1)
-    # silver_all_data = pd.read_csv('../../datasets/silver_set_all_data.csv')
-    # print(len(silver_all_data))
-    #
-    # data_for_pred = pd.read_csv('../auto_labeling/auto_label_data/shuffled_data_for_prediction_2905.csv')
-    # print(len(data_for_pred))
-    #
-    # auto_label_train = pd.read_csv('../auto_labeling/auto_label_data/auto_label_train.csv')
-    # print(len(auto_label_train))
+
 
 

@@ -5,4 +5,5 @@ See Section 5 -- "Evaluating Humans and LLMs" in the paper <br>
 In total, 100 samples, 79% accuracy, 70% agreement (std=0.045) <br>
 * In supervised: "mturk_for_eval_supervised.csv" includes the data for evaluation, "mturk_results_supervised.csv" includes the annotations of the workers. <br>
 In total, 40 samples (10 close analogy, 10 far analogy, 10 distractor, 10 random), 92.5% accuracy, 80% agreement (std=0.014) <br>
-* The code "eval_humans_binary_task.py" run this evaluation and prints the results.
+* The code "eval_humans_binary_task.py" run this evaluation and prints the results. <br>
+* The WorkerId is redacted for anonymity in files "mturk_results_zero_shot.csv" and "mturk_results_supervised.csv"
