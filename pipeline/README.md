@@ -4,5 +4,4 @@ This folder includes all the data and code related to our ParallelPARC pipeline 
 * The folder "human_validation_and_data_analysis" corresponds to Section 3.2 ("Human Annotation Task"), 3.4 ("Human Validation") and 4 ("Dataset Analysis") in the paper. <br>
 * The folder "distractors_generation" corresponds to Section 3.5 -- "Distractor Generation" in the paper. <br>
 * We REDACTED from the code any information about the Workers of Amazon Mechanical Turk for anonymity. <br>
-* We REDACTED from the code any information about the authors of the paper for anonymity. <br>
 

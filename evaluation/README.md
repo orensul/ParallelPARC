@@ -4,4 +4,3 @@ It includes both the binary task (zero-shot and supervised) and the multiple-cho
 * "models_evaluations" includes all experiments involving the models. <br>
 It includes both binary (zero-shot and supervised) and multiple-choice task (zero-shot). <br>
 * We REDACTED from the code any information about the Workers of Amazon Mechanical Turk for anonymity. <br>
-* We REDACTED from the code any information about the authors of the paper for anonymity. <br>
