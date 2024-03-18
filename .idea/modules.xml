@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ProParaLogy.iml" filepath="$PROJECT_DIR$/.idea/ProParaLogy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ParallelPARC.iml" filepath="$PROJECT_DIR$/.idea/ParallelPARC.iml" />
     </modules>
   </component>
 </project>
